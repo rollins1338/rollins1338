@@ -4,6 +4,6 @@ Currently reading/Unfinished ➡️
 - The man's perfect wife (knovel)
 - Hidden Muse (knovel)
 - Apollo's Heart (knovel)
-- Indebted (Western DR)
+- Indebted B1 (Western DR)
 - The Auction (fanfic dramione)
-- Possessing Violet (Western DR)
+- Possessing Violet B2 (Western DR)
