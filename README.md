@@ -1,4 +1,4 @@
-## Biggest Dark Romance Novel Enthusiast 🏴
+## Dark Romance Novel Enthusiast 🏴
 
 Currently reading/Unfinished ➡️
 - The man's perfect wife (knovel)
