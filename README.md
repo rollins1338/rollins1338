@@ -7,3 +7,4 @@ Currently reading/Unfinished ➡️
 - Indebted B1 (Western DR)
 - The Auction (fanfic dramione)
 - Possessing Violet B2 (Western DR)
+- Silver Bullets & Gold Ribbons (CH12)
