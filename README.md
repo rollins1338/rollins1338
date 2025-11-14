@@ -6,5 +6,5 @@ Currently reading/Unfinished ➡️
 - Apollo's Heart (knovel)
 - Indebted B1 (Western DR)
 - The Auction (Dramione Fic)
-- Possessing Violet B2 (Western DR)
+- Possessing Violet B2 (Western DR) [Waiting for Book 3 the restart]
 - Silver Bullets & Gold Ribbons (Dramione Fic) [Start again from CH1 to binge]
