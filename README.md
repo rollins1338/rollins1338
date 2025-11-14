@@ -7,4 +7,4 @@ Currently reading/Unfinished ➡️
 - Indebted B1 (Western DR)
 - The Auction (Dramione Fic)
 - Possessing Violet B2 (Western DR)
-- Silver Bullets & Gold Ribbons ((Dramione Fic)) [Start again from CH1 to binge]
+- Silver Bullets & Gold Ribbons (Dramione Fic) [Start again from CH1 to binge]
