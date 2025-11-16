@@ -5,6 +5,7 @@ todo- [add these](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5B
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
 - [x] [Fanfics](https://github.com/rollins1338/Everything-Fanfic/tree/main)
+- [x] [Translation and Utilities Websites](https://github.com/rollins1338/websites/tree/main)
 
 ---
 Currently reading/Unfinished ➡️
