@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones))
+todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones)) look up zodiac academy 
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
