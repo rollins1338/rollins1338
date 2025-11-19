@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones))
+todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones)). chrck [this](https://www.goodreads.com/book/show/61436434-requiem) & [this](https://www.goodreads.com/series/392242-fae-alchemy) these are dark academia 
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
