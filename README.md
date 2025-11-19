@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones))
+todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones)) | [check](https://www.reddit.com/r/DarkRomance/s/x8D5KL5FXc) 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
@@ -8,7 +8,7 @@ todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegave
 
 ---
 Currently reading/Unfinished ➡️
-- The man's perfect wife (knovel)
+- The man's perfect wife's (knovel)
 - Hidden Muse (knovel)
 - Apollo's Heart (knovel)
 - Indebted B1 (Western DR)
