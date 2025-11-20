@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones)) | [check](https://www.reddit.com/r/DarkRomance/s/x8D5KL5FXc) | [check](https://www.reddit.com/r/DarkRomance/s/Wjrf57SUn5)
+todo- [add these](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Never%20After%20Series%20(Standalones)) |  [check](https://www.reddit.com/r/DarkRomance/s/Wjrf57SUn5)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
