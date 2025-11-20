@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- x
+todo- [Empyrean](https://www.goodreads.com/series/362915-the-empyrean)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
