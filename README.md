@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo-  | add cat mouse book 0.5 1.5 | check bleeding hesrts other 3 books | 
+todo-  | add cat mouse book 0.5 1.5 | check bleeding hearts other 3 books | 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
