@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | check out all the graphicaudio titles |  look for more high fantasy/Romantasy books | [check this](https://www.goodreads.com/series/399248-silver-falls-university) | [check](https://www.goodreads.com/series/372028-legacy)
+todo- | check out all the graphicaudio titles |  look for more high fantasy/Romantasy books | [check](https://www.goodreads.com/series/372028-legacy)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
