@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | check out all the graphicaudio titles [found](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses) |  look for more high fantasy/Romantasy books 
+todo- | check out all the graphicaudio titles [found](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses) |  look for more high fantasy/Romantasy books | [add](https://audiobookbay.lu/abss/ckaptive-rj-lewis/)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
