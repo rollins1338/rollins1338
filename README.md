@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | check out all the graphicaudio titles (acatar) |  look for more high fantasy/Romantasy books | [...](https://www.reddit.com/r/DarkRomance/s/Tm4mKC0vCG)
+todo- | |
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
