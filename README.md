@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | check out all the graphicaudio titles (acatar) |  look for more high fantasy/Romantasy books | | [add](https://www.romance.io/books/68f20b720fc903654604a918/venomous-kiss-tl-smith?src=rdt&thr=1p4ouub) | [...](https://www.romance.io/series/66ec67115fdabc45b2c5b549/wicked-falls-elite) | [DHFF](https://www.reddit.com/r/Dramione/s/PXgMld2G06) | [..](https://www.goodreads.com/author/show/6474204.Pam_Godwin) | [...](https://www.reddit.com/r/DarkRomance/s/Tm4mKC0vCG)
+todo- | check out all the graphicaudio titles (acatar) |  look for more high fantasy/Romantasy books | [...](https://www.romance.io/series/66ec67115fdabc45b2c5b549/wicked-falls-elite) | [DHFF](https://www.reddit.com/r/Dramione/s/PXgMld2G06) | [..](https://www.goodreads.com/author/show/6474204.Pam_Godwin) | [...](https://www.reddit.com/r/DarkRomance/s/Tm4mKC0vCG)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
