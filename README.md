@@ -1,5 +1,10 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | |
+todo- 
+- [ ] [Crescent City](https://www.goodreads.com/series/233335-crescent-city)
+- [ ] [Gods & Monsters](https://www.goodreads.com/series/344354-gods-monsters)
+- [ ] [House of Devils](https://www.goodreads.com/series/335398-house-of-devils)
+- [ ] [The War of Lost Hearts](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
+
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
