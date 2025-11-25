@@ -1,7 +1,7 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- 
-- [ ] [Crescent City](https://www.goodreads.com/series/233335-crescent-city)
-- [ ] [Gods & Monsters](https://www.goodreads.com/series/344354-gods-monsters)
+- [ ] [Crescent City](https://www.goodreads.com/series/233335-crescent-city) [GraphicAudio Available]
+- [ ] [Gods & Monsters](https://www.goodreads.com/series/344354-gods-monsters) [GraphicAudio Available]
 - [ ] [House of Devils](https://www.goodreads.com/series/335398-house-of-devils)
 - [ ] [The War of Lost Hearts](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
 
