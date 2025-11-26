@@ -5,7 +5,7 @@ todo-
 - Notice K webster
 - whispers and roars
 - Coven of Bones) by Harper L. Woods
-- 
+- broken love series
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
