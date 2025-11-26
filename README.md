@@ -2,10 +2,9 @@
 todo- 
 - [Fall Away](https://www.goodreads.com/series/106249-fall-away)
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading]
-- Notice K webster
-- whispers and roars
-- Coven of Bones) by Harper L. Woods
-- broken love series
+- whispers and roars [x](https://www.myanonamouse.net/t/386902)
+- Coven of Bones by Harper L. Woods
+- broken love series [x](https://05od2.mrd.ninja/h-8q)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
