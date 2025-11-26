@@ -6,7 +6,7 @@ todo-
 
 - broken love series [x](https://05od2.mrd.ninja/h-8q)
 
-- [thron duet](https://www.goodreads.com/series/303595-throne-duet)
+- [throne duet](https://www.goodreads.com/series/303595-throne-duet)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
