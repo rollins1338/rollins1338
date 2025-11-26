@@ -3,7 +3,7 @@ todo-
 - [Fall Away](https://www.goodreads.com/series/106249-fall-away)
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading]
 - whispers and roars [x](https://www.myanonamouse.net/t/386902)
-- Coven of Bones by Harper L. Woods
+- [Coven of Bones by Harper L. Woods](https://www.goodreads.com/series/360602-coven-of-bones)
 - broken love series [x](https://05od2.mrd.ninja/h-8q)
 
 ---
