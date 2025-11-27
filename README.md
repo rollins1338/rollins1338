@@ -1,14 +1,7 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- 
 
-- [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading]
-- whispers and roars [x](https://www.myanonamouse.net/t/386902)
-
-- broken love series [x](https://05od2.mrd.ninja/h-8q)
-
-- [throne duet](https://www.goodreads.com/series/303595-throne-duet)
-
-- [The wild duet by K webster](https://05od2.mrd.ninja/12ku) + add book 2.5 pdf
+- [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
