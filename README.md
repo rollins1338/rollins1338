@@ -3,7 +3,7 @@ todo-
 
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 - [add](https://audiobookbay.lu/abss/xtell-me-pretty-lies-heartbreak-hill-1-charleigh-rose/)
-
+- [add](https://www.myanonamouse.net/t/1071787)
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
