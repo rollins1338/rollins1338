@@ -8,6 +8,8 @@ todo-
 
 - [throne duet](https://www.goodreads.com/series/303595-throne-duet)
 
+- [The wild duet by K webster](https://05od2.mrd.ninja/12ku) + add book 2.5 pdf
+
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
