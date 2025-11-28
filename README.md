@@ -11,7 +11,7 @@ todo- add to the drive repo
 - [The Danger You Know](https://www.goodreads.com/book/show/51180445-the-danger-you-know)
 - [Run Posy Run](https://www.goodreads.com/book/show/57488034-run-posy-run)
 - [Coerce](https://www.goodreads.com/book/show/58362816-coerce)
-- [Eyes on Me](https://www.goodreads.com/book/show/60797616-eyes-on-me) [xz](https://www.myanonamouse.net/t/874279)
+- [Eyes on Me](https://www.goodreads.com/book/show/60797616-eyes-on-me) [x](https://www.myanonamouse.net/t/874279)
 - [Burn For Me](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/book/show/217469514-burn-for-me&ved=2ahUKEwicgfzJ-JWRAxXaxjgGHeyVOzgQFnoECHUQAQ&sqi=2&usg=AOvVaw2_eD82MON7NDSTiAt3nXRP) [x](https://www.myanonamouse.net/t/1180608)
 
 
