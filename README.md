@@ -2,12 +2,12 @@
 todo- 
 
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
-- [ ] [Pucking Wrong Series](https://www.goodreads.com/series/371071-pucking-wrong)
+- [ ] [Pucking Wrong Series](https://www.goodreads.com/series/371071-pucking-wrong) [Added to Drive]
 - [ ] [Molotov Obsession Series](https://www.goodreads.com/series/305581-molotov-obsession) [Added to Drive]
 - [ ] [Tormentor Mine Series](https://www.goodreads.com/series/202919-tormentor-mine) [Added to Drive]
 - [ ] [Capture Me Series](https://www.goodreads.com/series/167266-capture-me) [Added to Drive]
 - [ ] [Sins of the Fathers Series](https://www.goodreads.com/series/314700-sins-of-the-fathers) [Added to Drive]
-- [ ] [Souls Trilogy](https://www.goodreads.com/series/315325-souls-trilogy)
+- [ ] [Souls Trilogy](https://www.goodreads.com/series/315325-souls-trilogy) [Added to Drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
