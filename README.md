@@ -8,6 +8,7 @@ todo-
 - [ ] [Capture Me Series](https://www.goodreads.com/series/167266-capture-me) [Added to Drive]
 - [ ] [Sins of the Fathers Series](https://www.goodreads.com/series/314700-sins-of-the-fathers) [Added to Drive]
 - [ ] [Souls Trilogy](https://www.goodreads.com/series/315325-souls-trilogy) [Added to Drive]
+- [ ] [Desire in His Blood](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
