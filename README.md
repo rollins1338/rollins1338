@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- 
+todo- add to the drive repo
 
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 - [ ] [Pucking Wrong Series](https://www.goodreads.com/series/371071-pucking-wrong) [Added to Drive]
