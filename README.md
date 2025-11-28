@@ -9,6 +9,8 @@ todo-
 - [ ] [Sins of the Fathers Series](https://www.goodreads.com/series/314700-sins-of-the-fathers) [Added to Drive]
 - [ ] [Souls Trilogy](https://www.goodreads.com/series/315325-souls-trilogy) [Added to Drive]
 - [ ] [Desire in His Blood](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
+- [ ] [https://www.goodreads.com/series/308761-adrian-x-isolde](https://www.goodreads.com/series/308761-adrian-x-isolde)
+- [ ] [Of Flesh & Bone Series](https://www.goodreads.com/series/329019-of-flesh-bone)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
