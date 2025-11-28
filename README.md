@@ -7,7 +7,6 @@ todo-
 - [ ] [Tormentor Mine Series](https://www.goodreads.com/series/202919-tormentor-mine) [Added to Drive]
 - [ ] [Capture Me Series](https://www.goodreads.com/series/167266-capture-me) [Added to Drive]
 - [ ] [Sins of the Fathers Series](https://www.goodreads.com/series/314700-sins-of-the-fathers) [Added to Drive]
-- [ ] [Crystal Bloom Series](https://www.goodreads.com/series/323768-crystal-bloom)
 - [ ] [Souls Trilogy](https://www.goodreads.com/series/315325-souls-trilogy)
 
 ---
