@@ -7,7 +7,7 @@ todo- add to the drive repo
 - [ ] [Twist Me Series by Anna Zaires](https://www.goodreads.com/series/122460-twist-me) [Added to Drive]
 - [ ] [Sinners Series Sophie Lark](https://www.goodreads.com/series/327040-sinners) [Added to Drive]
 - [ ] [Forget Your Morals (The Carlson Brothers, #2) by Sarah Blue](https://www.goodreads.com/book/show/167490050-forget-your-morals) [Added to Drive]
-- [ ] [Buttons Series](https://www.goodreads.com/series/199888-buttons)
+- [ ] [Buttons Series](https://www.goodreads.com/series/199888-buttons) [merging]
 - [ ] [Brutal Birthright Series](https://www.goodreads.com/series/295948-brutal-birthright)
 - [ ] [Criminals & Captives Series](https://www.goodreads.com/series/131887-criminals-captives)
 - [ ] [Diamond](https://www.goodreads.com/series/297140-diamond-magnate)
