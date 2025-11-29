@@ -7,6 +7,11 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | upload destiny m
 - [Collateral Damage Duet](https://www.goodreads.com/series/271030-collateral-damage) [Added to drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers)
 - [Tales of Obsession](https://www.goodreads.com/series/383283-tales-of-obsession) 2nd , 3rd book no audio [Added to drive]
+- [Desparate Measures](https://www.goodreads.com/book/show/206299177-desperate-measures)
+- [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
+- [Ruthless Obsession](https://www.goodreads.com/series/315804-ruthless-obsession)
+- [Boston Underworld Series](https://www.goodreads.com/series/172678-boston-underworld) [Only books 2,3,5]
+
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
