@@ -8,10 +8,10 @@ todo- add to the drive repo
 - [ ] [Sinners Series Sophie Lark](https://www.goodreads.com/series/327040-sinners) [Added to Drive]
 - [ ] [Forget Your Morals (The Carlson Brothers, #2) by Sarah Blue](https://www.goodreads.com/book/show/167490050-forget-your-morals) [Added to Drive]
 - [ ] [Buttons Series](https://www.goodreads.com/series/199888-buttons) [merging]
-- [ ] [Brutal Birthright Series](https://www.goodreads.com/series/295948-brutal-birthright)
-- [ ] [Criminals & Captives Series](https://www.goodreads.com/series/131887-criminals-captives)
-- [ ] [Diamond](https://www.goodreads.com/series/297140-diamond-magnate)
-- [ ] [Loan Shark Duet](https://www.goodreads.com/series/209998-the-loan-shark-duet)
+- [ ] [Brutal Birthright Series](https://www.goodreads.com/series/295948-brutal-birthright) [Added to Drive]
+- [ ] [Criminals & Captives Series](https://www.goodreads.com/series/131887-criminals-captives) [Added to Drive]
+- [ ] [Diamond](https://www.goodreads.com/series/297140-diamond-magnate) [Added to Drive]
+- [ ] [Loan Shark Duet](https://www.goodreads.com/series/209998-the-loan-shark-duet) [Added to Drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
