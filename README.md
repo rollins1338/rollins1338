@@ -5,13 +5,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | add to drive rep
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Lust - Derethi Anis](https://www.goodreads.com/book/show/60063261-lust) [Downloading, might take a month idk lol]
-- [Fear me Love me](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) [Added to drive]
-- [Collateral Damage Duet](https://www.goodreads.com/series/271030-collateral-damage) [Added to drive]
-- [Tales of Obsession](https://www.goodreads.com/series/383283-tales-of-obsession) 2nd , 3rd book no audio [Added to drive]
-- [Desparate Measures](https://www.goodreads.com/book/show/206299177-desperate-measures) [Added to drive]
-- [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading] [Added to drive]
-- [Ruthless Obsession](https://www.goodreads.com/series/315804-ruthless-obsession) [Added to drive]
-- [Boston Underworld Series](https://www.goodreads.com/series/172678-boston-underworld) [Only books 2,3,5] [Added to drive]
+- [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading] 
 
 
 ---
