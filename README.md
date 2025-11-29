@@ -19,3 +19,6 @@ Currently reading/Unfinished ➡️
 - The Auction (Dramione Fic)
 - Possessing Violet B2 (Western DR) [Waiting for Book 3 then restart]
 - Silver Bullets & Gold Ribbons (Dramione Fic) [Start again from CH1 to binge]
+---
+Watching 
+> [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
