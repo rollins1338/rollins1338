@@ -12,7 +12,9 @@ todo- add to the drive repo
 - [Run Posy Run](https://www.goodreads.com/book/show/57488034-run-posy-run)
 - [Coerce](https://www.goodreads.com/book/show/58362816-coerce)
 - [Eyes on Me](https://www.goodreads.com/book/show/60797616-eyes-on-me)
-- [Burn For Me](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/book/show/217469514-burn-for-me&ved=2ahUKEwicgfzJ-JWRAxXaxjgGHeyVOzgQFnoECHUQAQ&sqi=2&usg=AOvVaw2_eD82MON7NDSTiAt3nXRP) 
+- [Burn For Me](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/book/show/217469514-burn-for-me&ved=2ahUKEwicgfzJ-JWRAxXaxjgGHeyVOzgQFnoECHUQAQ&sqi=2&usg=AOvVaw2_eD82MON7NDSTiAt3nXRP)
+- [The Bad Guy](https://www.goodreads.com/book/show/34464710-the-bad-guy)
+- [Perfectly Imperfect Series](https://www.goodreads.com/series/343844-perfectly-imperfect) [11th book jan 06,26] [skip 12th book]
 
 
 ---
