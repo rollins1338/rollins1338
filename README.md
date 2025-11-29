@@ -5,7 +5,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) |
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 - [Fear me Love me](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) [Added to drive]
 - [Collateral Damage Duet](https://www.goodreads.com/series/271030-collateral-damage) [Added to drive]
-- [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers)
+- [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Tales of Obsession](https://www.goodreads.com/series/383283-tales-of-obsession) 2nd , 3rd book no audio [Added to drive]
 - [Desparate Measures](https://www.goodreads.com/book/show/206299177-desperate-measures)
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
