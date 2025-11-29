@@ -1,5 +1,5 @@
 ## Dark Romance Novel Enthusiast 🏴
-todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | upload destiny mine [tormentor mine book] |
+todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) |
 
 - Destiny mine [Tormentor Mine book 3] upload to drive
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
