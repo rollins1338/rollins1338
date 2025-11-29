@@ -6,7 +6,7 @@ todo- add to the drive repo
 - [Harrow Faire Series](https://www.goodreads.com/series/299614-harrow-faire) [Added to Drive]
 - [Viciously Yours](https://goodreads.com/book/show/202082942-viciously-yours) [Added to Drive]
 - [Kingdom of Villains](https://www.goodreads.com/book/show/54164103-kingdom-of-villains) [Added to Drive]
-- [Deadly Divine Duet](https://www.goodreads.com/series/377527-deadly-divine-duet) 
+- [Deadly Divine Duet](https://www.goodreads.com/series/377527-deadly-divine-duet) [Added to Drive]
 - [The Dracula Duet](https://www.goodreads.com/series/354776-the-dracula-duet) [Added to Drive]
 - [The Danger You Know](https://www.goodreads.com/book/show/51180445-the-danger-you-know)
 - [Run Posy Run](https://www.goodreads.com/book/show/57488034-run-posy-run) [Added to Drive]
