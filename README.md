@@ -3,6 +3,10 @@ todo- add to the drive repo
 
 - Destiny mine [Tormentor Mine book 3] upload to drive
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
+- [ ] [Does It Hurt? by H.D. Carlton](https://www.goodreads.com/book/show/61795526-does-it-hurt)
+- [ ] [Twist Me (Twist Me, #1) by Anna Zaires](https://www.goodreads.com/book/show/31847592-twist-me)
+- [ ] [There Are No Saints (Sinners, #1) by Sophie Lark](https://www.goodreads.com/book/show/63059371-there-are-no-saints)
+- [ ] [Forget Your Morals (The Carlson Brothers, #2) by Sarah Blue](https://www.goodreads.com/book/show/167490050-forget-your-morals)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
