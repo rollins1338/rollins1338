@@ -3,6 +3,10 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | upload destiny m
 
 - Destiny mine [Tormentor Mine book 3] upload to drive
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
+- [Fear me Love me](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4)
+- [Collateral Damage Duet](https://www.goodreads.com/series/271030-collateral-damage)
+- [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers)
+- 
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
