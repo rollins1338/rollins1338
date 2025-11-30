@@ -9,6 +9,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Dark Eyes Duet by Karina Halle](https://www.goodreads.com/series/316476-dark-eyes) [Added to Drive]
 - [Kingmakers Series by Sophie Lark](https://www.goodreads.com/series/310823-kingmakers) [Brutal Birthright Universe] [Added to Drive]
 - [Mindf*ck Series](https://www.goodreads.com/series/198785-mindf-ck) [Added to Drive]
+- [Punk 57](https://www.goodreads.com/book/show/41021967-punk-57)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
