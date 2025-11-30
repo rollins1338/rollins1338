@@ -4,11 +4,6 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | add to drive rep
 - [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
-- [Sinners Series by Michelle Heard](https://www.goodreads.com/series/335012-sinners) [Added to Drive]
-- [Deliver Series by Pam Goodwin](https://www.goodreads.com/series/124986-deliver) [Added to Drive]
-- [Allaince Series](https://www.goodreads.com/series/362029-alliance) [Added to Drive]
-- [Queens & Monsters Series](https://www.goodreads.com/series/311669-queens-monsters) [Added to Drive]
-- [Hollow's Row](https://www.goodreads.com/series/319924-hollow-s-row) [Added to Drive]
 
 
 ---
