@@ -7,8 +7,8 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | add to drive rep
 - [Sinners Series by Michelle Heard](https://www.goodreads.com/series/335012-sinners) [Added to Drive]
 - [Deliver Series by Pam Goodwin](https://www.goodreads.com/series/124986-deliver) [Added to Drive]
 - [Allaince Series](https://www.goodreads.com/series/362029-alliance)
-- [Queens & Monsters Series](https://www.goodreads.com/series/311669-queens-monsters)
-- [Hollow's Row](https://www.goodreads.com/series/319924-hollow-s-row)
+- [Queens & Monsters Series](https://www.goodreads.com/series/311669-queens-monsters) [Added to Drive]
+- [Hollow's Row](https://www.goodreads.com/series/319924-hollow-s-row) [Added to Drive]
 
 
 ---
