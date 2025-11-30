@@ -5,7 +5,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - [Bewitched Series](https://www.goodreads.com/series/346457-bewitched)
-- [Prince of Sin Series by Kerri Maniscalco](https://www.goodreads.com/series/360249-prince-of-sin)
+- [Prince of Sin Series by Kerri Maniscalco](https://www.goodreads.com/series/386472-prince-of-sin)
 - [Dark Eyes Duet by Karina Halle](https://www.goodreads.com/series/316476-dark-eyes)
 - [Kingmakers Series by Sophie Lark](https://www.goodreads.com/series/310823-kingmakers) [Brutal Birthright Universe]
 - [Mindf*ck Series](https://www.goodreads.com/series/198785-mindf-ck)
