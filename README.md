@@ -18,6 +18,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [The Ever Seas Series](https://www.goodreads.com/series/376497-the-ever-seas) [Added to Drive]
 - [Kingdom of Lies Series](https://www.goodreads.com/series/364102-kingdom-of-lies) [book 4 downloading]
 - [Skin of a Sinner](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
+- [Fated Fae Series](https://www.goodreads.com/series/375632-fated-fae)
 - [Legacy of the Nine Realms Series
 ](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms) [x](https://05od2.mrd.ninja/6Wms) [book 2,3 downloading]
 
