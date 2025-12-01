@@ -7,7 +7,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - Sweet Temptation [x](https://www.myanonamouse.net/t/779465)
 - [24690](https://www.goodreads.com/series/189737-24690) + Welcome to Whitlock Novellas [x](https://05od2.mrd.ninja/DbrZ) [Need to download everything]
 - [Cruel Intentions](https://www.goodreads.com/book/show/221233161-cruel-intentions) [x](https://www.myanonamouse.net/t/1091660)
-- [Shallow River](https://www.goodreads.com/book/show/56354926-shallow-river?ac=1&from_search=true&qid=tDGGPabHo9&rank=1) [Added to Drive]
+- [Shallow River](https://www.goodreads.com/book/show/56354926-shallow-river) [Added to Drive]
 - [White Nights Duet](https://www.goodreads.com/series/318492-white-nights) [Added to Drive]
 - [Scarlet Scars Series](https://www.goodreads.com/series/196106-scarlet-scars) [x](https://05od2.mrd.ninja/_oNM)
 - [Mercy](https://www.goodreads.com/book/show/35712570-mercy) [x](https://www.myanonamouse.net/t/1194252)
