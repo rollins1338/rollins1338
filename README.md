@@ -6,6 +6,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - Sweet Temptation [x](https://www.myanonamouse.net/t/779465)
 - [24690](https://www.goodreads.com/series/189737-24690) + Welcome to Whitlock Novellas [x](https://05od2.mrd.ninja/DbrZ) [Need to download everything]
+- [Cruel Intentions](https://www.goodreads.com/book/show/221233161-cruel-intentions) [x](https://www.myanonamouse.net/t/1091660)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
