@@ -14,7 +14,6 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Medicine Man](https://www.goodreads.com/book/show/39095082-medicine-man) [x](https://www.myanonamouse.net/t/1175546)
 - [Hades Hangmen Series](https://www.goodreads.com/series/128581-hades-hangmen) [x](https://05od2.mrd.ninja/W4dr) [Books 1-5 only]
 - [Bass-Ackwards](https://www.goodreads.com/book/show/44905051-bass-ackwards) [x](https://www.myanonamouse.net/t/1060538)
-- [Crystal Bloom](https://www.goodreads.com/series/323768-crystal-bloom) [Added to Drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
