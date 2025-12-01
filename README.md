@@ -14,8 +14,8 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
    1. [#1 Beautifully Cruel Series](https://www.goodreads.com/series/294281-beautifully-cruel) [Added to Drive]
    2. #2 is Queens & Monsters [Alr added]
    3. [#3 Morally Gray Series](https://www.goodreads.com/series/360942-morally-gray) [Added to Drive]
-- [Icebreaker](https://www.goodreads.com/book/show/61767292-icebreaker) [x](https://www.myanonamouse.net/t/888201)
-- [The Ever Seas Series](https://www.goodreads.com/series/376497-the-ever-seas)
+- [Icebreaker](https://www.goodreads.com/book/show/61767292-icebreaker) [Added to Drive]
+- [The Ever Seas Series](https://www.goodreads.com/series/376497-the-ever-seas) [Added to Drive]
 - [Legacy of the Nine Realms Series
 ](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms) [x](https://05od2.mrd.ninja/6Wms) [Check NoSeed whats missing]
 
