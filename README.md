@@ -5,7 +5,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - Sweet Temptation [x](https://www.myanonamouse.net/t/779465)
-- [24690](https://www.goodreads.com/series/189737-24690) + Welcome to Whitlock Novellas [x](https://05od2.mrd.ninja/DbrZ) [Need to download everythuing]
+- [24690](https://www.goodreads.com/series/189737-24690) + Welcome to Whitlock Novellas [x](https://05od2.mrd.ninja/DbrZ) [Need to download everything]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
