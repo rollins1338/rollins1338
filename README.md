@@ -1,7 +1,7 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx books to the repo [alr uploaded to drive] | add to drive repo  >>
 
-- [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol]
+- [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol] [book 4 added to drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - Sweet Temptation [x](https://www.myanonamouse.net/t/779465)
