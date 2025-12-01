@@ -17,7 +17,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Icebreaker](https://www.goodreads.com/book/show/61767292-icebreaker) [Added to Drive]
 - [The Ever Seas Series](https://www.goodreads.com/series/376497-the-ever-seas) [Added to Drive]
 - [Legacy of the Nine Realms Series
-](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms) [x](https://05od2.mrd.ninja/6Wms) [Check NoSeed whats missing]
+](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms) [x](https://05od2.mrd.ninja/6Wms) [book 2,3 downloading]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
