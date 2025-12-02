@@ -7,6 +7,10 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Dollar Series](https://www.goodreads.com/series/181737-dollar) [x](https://05od2.mrd.ninja/7cYt)
 - [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [x](https://05od2.mrd.ninja/qywv)
 - [Fallen men](https://www.goodreads.com/series/220988-fallen-men) [x](https://05od2.mrd.ninja/HLS4)
+- [Method](https://www.goodreads.com/book/show/43444744-method) [x](https://www.myanonamouse.net/t/725271)
+- [Mind to Bend](https://www.goodreads.com/book/show/78090892-mind-to-bend) [x](https://www.myanonamouse.net/t/1165343)
+- [The Royal Ballet Presents Series](https://www.goodreads.com/series/413010-the-royal-ballet-presents) [x](https://05od2.mrd.ninja/D6vd)
+- [The Society Series](https://www.goodreads.com/series/311746-the-society) [x](https://05od2.mrd.ninja/6Rp0)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
