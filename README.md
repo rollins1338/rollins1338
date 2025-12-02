@@ -6,6 +6,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - [Dollar Series](https://www.goodreads.com/series/181737-dollar) [x](https://05od2.mrd.ninja/7cYt)
 - [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [x](https://05od2.mrd.ninja/qywv)
+- [Fallen men](https://www.goodreads.com/series/220988-fallen-men) [x](https://05od2.mrd.ninja/HLS4)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
