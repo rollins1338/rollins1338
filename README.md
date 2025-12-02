@@ -18,7 +18,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Lessons in Sin](https://www.goodreads.com/book/show/57985189-lessons-in-sin) [x](https://www.myanonamouse.net/t/828220)
 - [Darling Venom](https://www.goodreads.com/book/show/59766350-darling-venom) [x](https://www.myanonamouse.net/t/777921)
 - [Crawl](https://www.goodreads.com/book/show/59725131-crawl) [x](https://www.myanonamouse.net/t/1166533)
-- [Bait]()https://www.goodreads.com/book/show/36048300-bait [x](https://www.myanonamouse.net/t/1188060)
+- [Bait](https://www.goodreads.com/book/show/36048300-bait) [x](https://www.myanonamouse.net/t/1188060)
 - [Debt](https://www.goodreads.com/book/show/23163343-debt) [x](https://www.myanonamouse.net/t/438467)
 > **King Universe**
  1. [King Series](https://www.goodreads.com/series/154887-king) [x](https://05od2.mrd.ninja/_2u7) [Book 0](https://www.myanonamouse.net/t/1157572)
