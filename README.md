@@ -20,8 +20,13 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Crawl](https://www.goodreads.com/book/show/59725131-crawl) [x](https://www.myanonamouse.net/t/1166533)
 - [Bait]()https://www.goodreads.com/book/show/36048300-bait [x](https://www.myanonamouse.net/t/1188060)
 - [Debt](https://www.goodreads.com/book/show/23163343-debt) [x](https://www.myanonamouse.net/t/438467)
-- [King Series](https://www.goodreads.com/series/154887-king) [x](https://05od2.mrd.ninja/_2u7)
+> **King Universe**
+ 1. [King Series](https://www.goodreads.com/series/154887-king) [x](https://05od2.mrd.ninja/_2u7) [Book 0](https://www.myanonamouse.net/t/1157572)
+ 2. [The Outskirts Duet Series](https://www.goodreads.com/series/214106-the-outskirts-duet) [x](https://05od2.mrd.ninja/WjiE) listen after book 4 of king
+ 3. [Pawn Duet](https://www.goodreads.com/series/276094-the-pawn-duet) [x](https://05od2.mrd.ninja/zQyQ)
+ 4. [Perversion Trilogy](https://www.goodreads.com/series/228942-perversion-trilogy) [x](https://05od2.mrd.ninja/f_-X)
 - [All The Pretty Things Series](https://www.goodreads.com/series/260673-all-the-pretty-things) [x](https://05od2.mrd.ninja/OY4V)
+
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
