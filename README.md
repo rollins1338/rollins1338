@@ -7,7 +7,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [Merge and add to drive]
 - [Playing with Monsters Series](https://www.goodreads.com/series/155364-playing-with-monsters) [x](https://05od2.mrd.ninja/Zfwd)
 - [Maze of Shadows Series](https://www.goodreads.com/series/331563-maze-of-shadows) [x](https://05od2.mrd.ninja/0V7b)
-- [A Ship of Bones and Teeth](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth) [x](https://www.myanonamouse.net/t/1055335)
+- [A Ship of Bones and Teeth](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth) [x](https://www.myanonamouse.net/t/1054232)
 - [Nightshade Duet](https://www.goodreads.com/series/346395-nightshade) [x](https://05od2.mrd.ninja/g0O4)
 - [The Fae Chronicles Series](https://www.goodreads.com/series/104874-the-fae-chronicles) [x](https://05od2.mrd.ninja/teLk)
 - [Frost and Nectar Series](https://www.goodreads.com/series/351192-frost-and-nectar) [x](https://05od2.mrd.ninja/Tc5d)
