@@ -5,12 +5,12 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | Add the RuNyx bo
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - [Dollar Series](https://www.goodreads.com/series/181737-dollar) [Added to Drive]
-- [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [Added to Drive]
+- [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [Merge]
 - [Fallen men](https://www.goodreads.com/series/220988-fallen-men) [Added to Drive]
 - [Method](https://www.goodreads.com/book/show/43444744-method) [Added to Drive]
 - [Mind to Bend](https://www.goodreads.com/book/show/78090892-mind-to-bend) [Added to Drive]
 - [The Royal Ballet Presents Series](https://www.goodreads.com/series/413010-the-royal-ballet-presents) [Added to Drive]
-- [The Society Series](https://www.goodreads.com/series/311746-the-society) [Added to Drive]
+- [The Society Series](https://www.goodreads.com/series/311746-the-society) [1 books added (requeim) merge other 2]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
