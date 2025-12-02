@@ -5,7 +5,6 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [Merge and add to drive]
-- [The Society Series](https://www.goodreads.com/series/311746-the-society) [uploading last book]
 - [Playing with Monsters Series](https://www.goodreads.com/series/155364-playing-with-monsters) [x](https://05od2.mrd.ninja/Zfwd)
 - [Maze of Shadows Series](https://www.goodreads.com/series/331563-maze-of-shadows) [x](https://05od2.mrd.ninja/0V7b)
 - [A Ship of Bones and Teeth](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth) [x](https://www.myanonamouse.net/t/1055335)
