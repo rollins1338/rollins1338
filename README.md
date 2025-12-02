@@ -1,7 +1,6 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive repo  >> start tonight 1AM
 
-- [When Rivals Play](https://www.goodreads.com/series/198081-when-rivals-play) [Downloading, might take a month idk lol] [book 4 added to drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Downloading, might take a month idk lol]
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 - [Dark Romance Series](https://www.goodreads.com/series/200320-dark-romance) [Merge and add to drive]
