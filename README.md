@@ -5,8 +5,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
 > Merging - 
  1. Mountains Made of Glass [Fairytale Retelling]
- 2. 2nd Book of pawn Duet
- 3. 2nd book of Outskirts Duet
+ 2. 2nd book of Outskirts Duet
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
