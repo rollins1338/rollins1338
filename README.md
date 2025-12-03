@@ -12,7 +12,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [The Doctor](https://www.goodreads.com/book/show/40702672-the-doctor) [Download DONE]
 - [Sinners Anonymous Series](https://www.goodreads.com/series/338698-sinners-anonymous) [Download DONE]
 - [Brutal Ambition](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1) [Download DONE]
-- [Trails of Sin Series](https://www.goodreads.com/series/224949-trails-of-sin) [x](https://05od2.mrd.ninja/ovv4)
+- [Trails of Sin Series](https://www.goodreads.com/series/224949-trails-of-sin) [Download DONE]
 - [Monsters & Muses Series](https://www.goodreads.com/series/324608-monsters-muses) [x](https://05od2.mrd.ninja/jFUQ)
 - [Blackwood](https://www.goodreads.com/book/show/31445952-blackwood) [Download DONE]
 - [The Professional](https://www.goodreads.com/book/show/17558070-the-professional) [Download DONE]
