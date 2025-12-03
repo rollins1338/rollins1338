@@ -28,9 +28,9 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Secrets Series](https://www.goodreads.com/series/394340-secrets) [Download DONE] [get books 1 and 3 only]
 - [Lotus](https://www.goodreads.com/book/show/57359837-lotus) [Download DONE]
 - [The Plated Prisoner Series](https://www.goodreads.com/series/301593-the-plated-prisoner) [Download DONE]
-- [Lothaire](https://www.goodreads.com/book/show/10790516-lothaire) [x](https://www.myanonamouse.net/t/92402)
-- [Kingdom Duet Series](https://www.goodreads.com/series/289624-kingdom-duet) [x](https://05od2.mrd.ninja/Gjit)
-- [Grimstone Series](https://www.goodreads.com/series/393033-grimstone) [x](https://05od2.mrd.ninja/q6r4)
+- [Lothaire](https://www.goodreads.com/book/show/10790516-lothaire) [Download DONE]
+- [Kingdom Duet Series](https://www.goodreads.com/series/289624-kingdom-duet) [Download DONE]
+- [Grimstone Series](https://www.goodreads.com/series/393033-grimstone) [Download DONE]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
