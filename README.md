@@ -2,6 +2,7 @@
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive repo  >> 
 
 - [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [downloading might take a month idk lol]
+- [Savage Trilogy by Meghan March](https://www.goodreads.com/series/222379-savage-trilogy) [downloading might take a month idk lol]
 ---
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [Added to Drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Added to Drive]
@@ -16,20 +17,19 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Monsters & Muses Series](https://www.goodreads.com/series/324608-monsters-muses) [x](https://05od2.mrd.ninja/jFUQ)
 - [Blackwood](https://www.goodreads.com/book/show/31445952-blackwood) [Download DONE]
 - [The Professional](https://www.goodreads.com/book/show/17558070-the-professional) [Download DONE]
-- [Boston Belles Series](https://www.goodreads.com/series/272781-boston-belles) [x](https://05od2.mrd.ninja/sEJV)
-- [June First](https://www.goodreads.com/book/show/123416093-june-first)⭐⭐⭐⭐⭐ [x](https://www.myanonamouse.net/t/916765)
-- [Sparrow](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1) [x](https://www.myanonamouse.net/t/460235)
-- [Always Been You](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1)⭐⭐⭐⭐⭐ [x](https://www.myanonamouse.net/t/1071761)
-- [Dirty, Ugly toys](https://www.goodreads.com/book/show/28195608-dirty-ugly-toy) [x](https://www.myanonamouse.net/t/340381)
-- [Unconditional](https://www.goodreads.com/book/show/44094398-unconditional?ref=nav_sb_ss_1_19) [x](https://www.myanonamouse.net/t/1071779)
-- [Lies, Hearts & Truths Series](https://www.goodreads.com/series/314752-lies-hearts-truths) [x](https://05od2.mrd.ninja/G2uC)
-- [Forget Me Not](https://www.goodreads.com/book/show/51523852-forget-me-not) [x](https://www.myanonamouse.net/t/866492)
-- [Secrets Series](https://www.goodreads.com/series/394340-secrets) [x](https://05od2.mrd.ninja/AIo1) [get books 1 and 3 only]
-- [Lotus](https://www.goodreads.com/book/show/57359837-lotus) [x](https://www.myanonamouse.net/t/734239)
-- [The Plated Prisoner Series](https://www.goodreads.com/series/301593-the-plated-prisoner) [x](https://05od2.mrd.ninja/UOuI)
+- [Boston Belles Series](https://www.goodreads.com/series/272781-boston-belles) [Download DONE]
+- [June First](https://www.goodreads.com/book/show/123416093-june-first)⭐⭐⭐⭐⭐ [Download DONE]
+- [Sparrow](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1) [Download DONE]
+- [Always Been You](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1)⭐⭐⭐⭐⭐ [Download DONE]
+- [Dirty, Ugly toys](https://www.goodreads.com/book/show/28195608-dirty-ugly-toy) [Download DONE]
+- [Unconditional](https://www.goodreads.com/book/show/44094398-unconditional?ref=nav_sb_ss_1_19) [Download DONE]
+- [Lies, Hearts & Truths Series](https://www.goodreads.com/series/314752-lies-hearts-truths) [Download DONE]
+- [Forget Me Not](https://www.goodreads.com/book/show/51523852-forget-me-not) [Download DONE]
+- [Secrets Series](https://www.goodreads.com/series/394340-secrets) [Download DONE] [get books 1 and 3 only]
+- [Lotus](https://www.goodreads.com/book/show/57359837-lotus) [Download DONE]
+- [The Plated Prisoner Series](https://www.goodreads.com/series/301593-the-plated-prisoner) [Download DONE]
 - [Lothaire](https://www.goodreads.com/book/show/10790516-lothaire) [x](https://www.myanonamouse.net/t/92402)
 - [Kingdom Duet Series](https://www.goodreads.com/series/289624-kingdom-duet) [x](https://05od2.mrd.ninja/Gjit)
-- [Savage Trilogy by Meghan March](https://www.goodreads.com/series/222379-savage-trilogy) [x](https://05od2.mrd.ninja/YUL8)
 - [Grimstone Series](https://www.goodreads.com/series/393033-grimstone) [x](https://05od2.mrd.ninja/q6r4)
 
 ---
