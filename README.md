@@ -15,7 +15,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 - [Trails of Sin Series](https://www.goodreads.com/series/224949-trails-of-sin) [x](https://05od2.mrd.ninja/ovv4)
 - [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [x](https://05od2.mrd.ninja/Vevt) [Missing book 3]
 - [Monsters & Muses Series](https://www.goodreads.com/series/324608-monsters-muses) [x](https://05od2.mrd.ninja/jFUQ)
-- []() [x]()
+- [Blackwood](https://www.goodreads.com/book/show/31445952-blackwood) [x](https://www.myanonamouse.net/t/774715)
 - []() [x]()
 
 ---
