@@ -3,7 +3,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
 
 - x
 ---
-
+- [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [Added to Drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Added to Drive]
 - [Vipers](https://www.goodreads.com/series/404114-vipers) [](https://05od2.mrd.ninja/BNZV)
 - [Lies & Truths Duet Series](https://www.goodreads.com/series/280612-lies-truths-duet) [x](https://05od2.mrd.ninja/bGWL)
