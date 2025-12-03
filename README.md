@@ -1,7 +1,7 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive repo  >> 
 
-- [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [book 1,2 downloading]
+- x
 ---
 
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Added to Drive]
