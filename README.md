@@ -52,6 +52,6 @@ Watching
 > [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
 ---
 
-> [Boys of Tommen](https://www.goodreads.com/shelf/show/boys-of-tommen) [got books 1,2,3,4,5] check myanona for more
-> [Twisted Series](https://www.goodreads.com/series/314410-twisted) [got all]            ------------------------------------------ CHECK IF ANY STALLED DOWNLOAD FROM ANONA
-> [Kings of Sin Series](https://www.goodreads.com/series/354216-kings-of-sin) [got books 1,2,3,4,5] check myanona for more
+> [Boys of Tommen](https://www.goodreads.com/shelf/show/boys-of-tommen) 
+> [Twisted Series](https://www.goodreads.com/series/314410-twisted)        
+> [Kings of Sin Series](https://www.goodreads.com/series/354216-kings-of-sin) 
