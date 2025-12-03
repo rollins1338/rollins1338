@@ -1,22 +1,21 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive repo  >> 
 
-- x
+- [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [downloading might take a month idk lol]
 ---
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [Added to Drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Added to Drive]
-- [Vipers](https://www.goodreads.com/series/404114-vipers) [](https://05od2.mrd.ninja/BNZV)
-- [Lies & Truths Duet Series](https://www.goodreads.com/series/280612-lies-truths-duet) [x](https://05od2.mrd.ninja/bGWL)
+- [Vipers](https://www.goodreads.com/series/404114-vipers) [](https://05od2.mrd.ninja/BNZV) [Download DONE]
+- [Lies & Truths Duet Series](https://www.goodreads.com/series/280612-lies-truths-duet) [x](https://05od2.mrd.ninja/bGWL) [Download DONE]
 - [Darkly, Madly Series
-](https://www.goodreads.com/series/202779-darkly-madly) [x](https://www.myanonamouse.net/t/863325)
-- [The Doctor](https://www.goodreads.com/book/show/40702672-the-doctor) [z](https://www.myanonamouse.net/t/769925)
-- [Sinners Anonymous Series](https://www.goodreads.com/series/338698-sinners-anonymous) [x](https://05od2.mrd.ninja/PHVN)
-- [Brutal Ambition](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1) [x](https://www.myanonamouse.net/t/1100131)
+](https://www.goodreads.com/series/202779-darkly-madly) [x](https://www.myanonamouse.net/t/863325) [Download DONE]
+- [The Doctor](https://www.goodreads.com/book/show/40702672-the-doctor) [z](https://www.myanonamouse.net/t/769925) [Download DONE]
+- [Sinners Anonymous Series](https://www.goodreads.com/series/338698-sinners-anonymous) [x](https://05od2.mrd.ninja/PHVN) [Download DONE]
+- [Brutal Ambition](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1) [x](https://www.myanonamouse.net/t/1100131) [Download DONE]
 - [Trails of Sin Series](https://www.goodreads.com/series/224949-trails-of-sin) [x](https://05od2.mrd.ninja/ovv4)
-- [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [x](https://05od2.mrd.ninja/Vevt) [Missing book 3]
 - [Monsters & Muses Series](https://www.goodreads.com/series/324608-monsters-muses) [x](https://05od2.mrd.ninja/jFUQ)
-- [Blackwood](https://www.goodreads.com/book/show/31445952-blackwood) [x](https://www.myanonamouse.net/t/774715)
-- [The Professional](https://www.goodreads.com/book/show/17558070-the-professional) [x](https://www.myanonamouse.net/t/181695)
+- [Blackwood](https://www.goodreads.com/book/show/31445952-blackwood) [Download DONE]
+- [The Professional](https://www.goodreads.com/book/show/17558070-the-professional) [Download DONE]
 - [Boston Belles Series](https://www.goodreads.com/series/272781-boston-belles) [x](https://05od2.mrd.ninja/sEJV)
 - [June First](https://www.goodreads.com/book/show/123416093-june-first)⭐⭐⭐⭐⭐ [x](https://www.myanonamouse.net/t/916765)
 - [Sparrow](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1) [x](https://www.myanonamouse.net/t/460235)
