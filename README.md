@@ -15,6 +15,7 @@ todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive r
  4. [No One Has To Know](https://www.goodreads.com/book/show/62366961-no-one-has-to-know) [x](https://www.myanonamouse.net/t/1188529)
 - [Next Level](https://www.goodreads.com/series/353885-next-level) [x](https://05od2.mrd.ninja/VYNs) [Just books 1,2,3 needed]
 - [Captivity Collection Series](https://www.goodreads.com/series/402537-captivity-collection) [bk1](https://www.myanonamouse.net/t/1060374) [bk2](https://www.myanonamouse.net/t/1023072)
+- [Cityscape](https://www.goodreads.com/series/102635-the-cityscape) [x](https://05od2.mrd.ninja/ocTJ)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
