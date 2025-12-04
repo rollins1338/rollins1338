@@ -8,6 +8,7 @@ todo- [WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to
 
 ### Standalones
 - [Under the Bed](https://www.goodreads.com/book/show/223364832-under-the-bed) [x](https://www.myanonamouse.net/t/1188528)
+- [Slaycation Series](https://www.goodreads.com/series/402468-slaycation) [x](https://05od2.mrd.ninja/OZyZ)
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
