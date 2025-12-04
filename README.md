@@ -12,8 +12,8 @@
 
 ### Standalones
 
-- [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [x](https://www.myanonamouse.net/t/540734) [trying dl]
-- [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [x](https://www.myanonamouse.net/t/1194138)
+- [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [Added to drive]
+- [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [Added to Drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
