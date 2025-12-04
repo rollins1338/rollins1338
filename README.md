@@ -4,7 +4,7 @@
 
 ### Series/Duets
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
-- [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [x](https://05od2.mrd.ninja/Sky8) [Get #1-3 and #2]
+- [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [x](https://05od2.mrd.ninja/Sky8) [Downloading, prob gonna take a month idk lol]
 - [The Slaycation](https://www.goodreads.com/series/402468-slaycation) [x](https://05od2.mrd.ninja/OZyZ)
 - [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [x](https://05od2.mrd.ninja/JCcL) [Only get bks 1,2]
 
