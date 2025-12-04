@@ -2,12 +2,12 @@
 todo- x | add to drive repo  >> 
 
 ### Series/Duets
--x
+- x
 
 ---
 
 ### Standalones
--x
+- x
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
