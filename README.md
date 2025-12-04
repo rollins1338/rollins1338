@@ -7,7 +7,7 @@ todo- [WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to
 ---
 
 ### Standalones
-- [Under the Bed](https://www.goodreads.com/book/show/223364832-under-the-bed) [Added to Drive]
+- [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [x](https://05od2.mrd.ninja/Sky8) [Get #1-3 and #2]
 - [The Slaycation](https://www.goodreads.com/series/402468-slaycation) [x](https://05od2.mrd.ninja/OZyZ)
 
 ---
