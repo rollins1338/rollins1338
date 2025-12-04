@@ -1,5 +1,6 @@
-## Dark Romance Novel Enthusiast 🏴
-todo- [WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to drive repo  >> 
+# Dark Romance Novel Enthusiast 🏴
+## To-Do
+[WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to drive repo  >> 
 
 ### Series/Duets
 - [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [x](https://05od2.mrd.ninja/Sky8) [Get #1-3 and #2]
