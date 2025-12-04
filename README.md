@@ -1,8 +1,8 @@
 ## Dark Romance Novel Enthusiast 🏴
 todo- | [add](https://www.reddit.com/r/Dramione/s/jLVXCeC0NY) | | add to drive repo  >> 
 
-- [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [downloading might take a month idk lol]
-- [Savage Trilogy by Meghan March](https://www.goodreads.com/series/222379-savage-trilogy) [downloading might take a month idk lol]
+- [Ruthless People Series](https://www.goodreads.com/series/125840-ruthless-people) [Download DONE]
+- [Savage Trilogy by Meghan March](https://www.goodreads.com/series/222379-savage-trilogy) [Download DONE]
 ---
 - [Bellandi Crime Syndicate](https://www.goodreads.com/series/281416-bellandi-crime-syndicate) [Added to Drive]
 - [Benedetti Brothers Series](https://www.goodreads.com/series/231633-benedetti-brothers) [Added to Drive]
