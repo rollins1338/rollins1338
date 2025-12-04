@@ -6,13 +6,13 @@
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
 - [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [x](https://05od2.mrd.ninja/Sky8) [Downloading, prob gonna take a month idk lol]
 - [The Slaycation](https://www.goodreads.com/series/402468-slaycation) [x](https://05od2.mrd.ninja/OZyZ)
-- [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [x](https://05od2.mrd.ninja/JCcL) [Only get bks 1,2]
+- [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [x](https://05od2.mrd.ninja/JCcL) [Only get bks 1,2] [trying dl]
 
 ---
 
 ### Standalones
 
-- [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [x](https://www.myanonamouse.net/t/540734)
+- [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [x](https://www.myanonamouse.net/t/540734) [trying dl]
 - [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [x](https://www.myanonamouse.net/t/1194138)
 
 ---
