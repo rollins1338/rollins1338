@@ -1,7 +1,7 @@
 # Dark Romance Novel Enthusiast 🏴
 
-<img src=".//FY.jpg" alt="A black and white image of two figures in a misty, mountainous landscape" width="980" align="left"/>
-
+![Banner Image](https://github.com/rollins1338/rollins1338/blob/main/FY.jpg)
+<br>
 ## To-Do
 [WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to drive repo  >> 
 
