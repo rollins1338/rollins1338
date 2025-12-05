@@ -40,7 +40,7 @@ Currently reading/Unfinished ➡️
 - Silver Bullets & Gold Ribbons (Dramione Fic) [Start again from CH1 to binge]
 ---
 Watching 
-> [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
+- [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
 ---
 > *Cover is a fanart of Reverend Insanity*
 
