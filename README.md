@@ -14,7 +14,7 @@
 - [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [Added to drive]
 
 ### Romantasy
-- [The Eating Woods Sereis](https://www.goodreads.com/series/389166-the-eating-woods) *[2nd book Audiobook release  31 Mar, 26]*
+- [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) *[2nd book Audiobook release  31 Mar, 26]*
 
 ---
 
