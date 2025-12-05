@@ -17,6 +17,7 @@
 
 ### Romantasy
 - [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) [Added to drive] *[2nd book Audiobook release  31 Mar, 26]*
+- [Atonement of the Spine Cleaver](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver) [Added to drive]
 
 ---
 
