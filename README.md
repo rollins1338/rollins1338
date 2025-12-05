@@ -17,6 +17,7 @@
 
 ### Romantasy
 - [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) [Added to drive] *[2nd book Audiobook release  31 Mar, 26]*
+- [Bride Series](https://www.goodreads.com/series/412885-bride) [Added to drive]
 
 ---
 
