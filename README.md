@@ -42,5 +42,5 @@ Currently reading/Unfinished ➡️
 Watching 
 > [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
 ---
-[Cover is a fanart of Reverend Insanity]
+> *Cover is a fanart of Reverend Insanity*
 
