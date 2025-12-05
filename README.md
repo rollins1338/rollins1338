@@ -37,7 +37,7 @@
 
 ---
 Currently Listening ➡️
-> *Playing With Monsters, Book 1* ▶︎•၊၊||၊|။||||။ ၊|• 02:19:40
+> *Playing With Monsters, Book 01* ▶︎•၊၊||၊|။||||။ ၊|• 02:19:40
 ---
 Watching 
 - [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
