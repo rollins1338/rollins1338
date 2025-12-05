@@ -17,7 +17,6 @@
 
 ### Romantasy
 - [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) [Added to drive] *[2nd book Audiobook release  31 Mar, 26]*
-- [Atonement of the Spine Cleaver](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver) [Added to drive]
 
 ---
 
@@ -26,6 +25,8 @@
 - [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [Added to drive]
 - [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [Added to Drive]
 - [Honeysuckles](https://www.goodreads.com/book/show/172267014-honeysuckles) [Added to drive]
+- [Atonement of the Spine Cleaver](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver) [Added to drive]
+
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
