@@ -9,7 +9,6 @@
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
 - [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [Added to drive]
 - [The Slaycation](https://www.goodreads.com/series/402468-slaycation) [Added to drive]
-- [Honeysuckles](https://www.goodreads.com/book/show/172267014-honeysuckles) [Added to drive]
 - [Fallen Royals Series](https://www.goodreads.com/series/279504-fallen-royals) [Added to drive]
 - [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [Added to drive]
 - [Dark Prince Road Series](https://www.goodreads.com/series/378153-dark-prince-road) [Added to drive]
@@ -24,6 +23,7 @@
 
 - [The Unrequited](https://www.goodreads.com/book/show/34839067-the-unrequited) [Added to drive]
 - [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [Added to Drive]
+- [Honeysuckles](https://www.goodreads.com/book/show/172267014-honeysuckles) [Added to drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
