@@ -12,6 +12,7 @@
 - [Honeysuckles](https://www.goodreads.com/book/show/172267014-honeysuckles) [Added to drive]
 - [Fallen Royals Series](https://www.goodreads.com/series/279504-fallen-royals) [Added to drive]
 - [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [Added to drive]
+- [Dark Prince Road Series](https://www.goodreads.com/series/378153-dark-prince-road) [x](https://05od2.mrd.ninja/kpU2)
 
 ### Romantasy
 - [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) [Added to drive] *[2nd book Audiobook release  31 Mar, 26]*
