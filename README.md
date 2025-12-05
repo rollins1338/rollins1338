@@ -13,7 +13,7 @@
 - [Brutal Hearts Series](https://www.goodreads.com/series/354753-brutal-hearts) [Added to drive]
 - [Dark Prince Road Series](https://www.goodreads.com/series/378153-dark-prince-road) [Added to drive]
 - [Twisted City Duet Series](https://www.goodreads.com/series/324297-twisted-city-duet) [Added to drive]
-- [Bad Boys of Bardstown Series](https://www.goodreads.com/series/313779-bad-boys-of-bardstown) [Keep an Eye on ABB and MaM for the third book] 
+- [Bad Boys of Bardstown Series](https://www.goodreads.com/series/313779-bad-boys-of-bardstown) [Keep an Eye on ABB and MaM for the third book] [Added to drive]
 
 ### Romantasy
 - [The Eating Woods Series](https://www.goodreads.com/series/389166-the-eating-woods) [Added to drive] *[2nd book Audiobook release  31 Mar, 26]*
