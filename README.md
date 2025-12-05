@@ -25,7 +25,7 @@
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
-- [x] [Western Dark Romance Novels](https://github.com/rollins1338/Western-omegaverse)
+- [x] [Western Dark Romance Novels](https://github.com/rollins1338/audiobooklist/tree/main)
 - [x] [Fanfics](https://github.com/rollins1338/Everything-Fanfic/tree/main)
 - [x] [Translation and Utilities Websites](https://github.com/rollins1338/websites/tree/main)
 
