@@ -6,7 +6,6 @@
 [WH40K Audio Project](https://github.com/rollins1338/WH40k-AUDIO) | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- [twisted duet versions get it](https://05od2.mrd.ninja/UENp)
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
 - [The Broken Bonds Series](https://www.goodreads.com/series/288526-the-broken-bonds) [Added to drive]
 - [The Slaycation](https://www.goodreads.com/series/402468-slaycation) [Added to drive]
