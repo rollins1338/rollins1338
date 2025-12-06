@@ -27,7 +27,8 @@
 - [Branded](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [Added to Drive]
 - [Honeysuckles](https://www.goodreads.com/book/show/172267014-honeysuckles) [Added to drive]
 - [Atonement of the Spine Cleaver](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver) [Added to drive]
-
+- [Bound by Ali Hazelwood
+](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1) [Added to drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
