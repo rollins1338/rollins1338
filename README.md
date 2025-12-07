@@ -8,6 +8,7 @@
 ### Series/Duets [Contemporary]
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Added to Drive]
 - [Crossfire Series](https://www.goodreads.com/series/73778-crossfire) [Added to Drive]
+- [Molotov Betrothal Series](https://www.goodreads.com/series/333805-molotov-betrothal) [Added to Drive + repo add link]
 
 ### Romantasy
 - [Jaga and the Devil Series](https://www.goodreads.com/series/396473-jaga-and-the-devil) [2nd and 3rd book audio not available yet]
