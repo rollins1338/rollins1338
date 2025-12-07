@@ -7,14 +7,17 @@
 
 ### Series/Duets [Contemporary]
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Added to Drive]
+- [Crossfire Series](https://www.goodreads.com/series/73778-crossfire) [Added to Drive]
 
 ### Romantasy
-- x
+- [Jaga and the Devil Series](https://www.goodreads.com/series/396473-jaga-and-the-devil) [2nd and 3rd book audio not available yet]
+- 
 
 ---
 
 ### Standalones
-- x
+- [The Last Girl](https://www.goodreads.com/book/show/211162873-the-last-girl) [Added to Drive]
+- [Heavy](https://www.goodreads.com/book/show/222273404-heavy) [Added to Drive]
 
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
