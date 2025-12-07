@@ -6,7 +6,8 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- x
+- [Venomous Gods Series](https://www.goodreads.com/series/383736-venomous-gods) [Added to Drive]
+- [Forbidden Love Series](https://www.goodreads.com/series/387638-forbidden-love) [Added to Drive]
 
 ### Romantasy
 - x
