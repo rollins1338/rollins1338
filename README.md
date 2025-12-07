@@ -11,7 +11,6 @@
 
 ### Romantasy
 - [Jaga and the Devil Series](https://www.goodreads.com/series/396473-jaga-and-the-devil) [2nd and 3rd book audio not available yet]
-- 
 
 ---
 
