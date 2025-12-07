@@ -3,26 +3,19 @@
 ![Banner Image](https://github.com/rollins1338/rollins1338/blob/main/1FY.jpg)
 <br>
 ## To-Do
-| [Check](https://www.reddit.com/r/DarkRomance/s/d27DMT8Fr3) | add to drive repo  >> 
+|  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Added to Drive]
-- [Crossfire Series](https://www.goodreads.com/series/73778-crossfire) [Added to Drive]
-- [Molotov Betrothal Series](https://www.goodreads.com/series/333805-molotov-betrothal) [Added to Drive + repo add link]
-- [Carnival Series](https://www.goodreads.com/series/404207-carnival) [Added to Drive]
+- x
 
 ### Romantasy
-- [Jaga and the Devil Series](https://www.goodreads.com/series/396473-jaga-and-the-devil) [2nd and 3rd book audio not available yet]
+- x
 
 ---
 
 ### Standalones
-- [The Last Girl](https://www.goodreads.com/book/show/211162873-the-last-girl) [Added to Drive]
-- [Heavy](https://www.goodreads.com/book/show/222273404-heavy) [Added to Drive]
-- [Imprisoned](https://www.goodreads.com/book/show/229287129-imprisoned) [Added to Drive]
-- [Deliverance - Katelyn Taylor](https://www.goodreads.com/book/show/223291483-deliverance) F/F Dark Romance [Added to Drive]
-- [Tryst Six Venom](https://www.goodreads.com/book/show/54661258-tryst-six-venom?ac=1&from_search=true&qid=0ifALxcnqw&rank=1) F/F Dark Romance [Added to Drive]
-- [Loathing You](https://www.goodreads.com/book/show/123173649-loathing-you?ref=nav_sb_ss_1_12) F/F Dark Romance [Added to Drive] 
+- x
+
 ---
 - [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
 - [x] [Western Dark Romance Novels](https://github.com/rollins1338/audiobooklist/tree/main)
