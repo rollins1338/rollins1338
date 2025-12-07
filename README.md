@@ -6,7 +6,7 @@
 | [Check](https://www.reddit.com/r/DarkRomance/s/d27DMT8Fr3) | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
+- [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Added to Drive]
 
 ### Romantasy
 - x
