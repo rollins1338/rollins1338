@@ -3,7 +3,7 @@
 ![Banner Image](https://github.com/rollins1338/rollins1338/blob/main/1FY.jpg)
 <br>
 ## To-Do
-| | add to drive repo  >> 
+| [Chdck](https://www.reddit.com/r/DarkRomance/s/d27DMT8Fr3) | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 - [RAW Family Series](https://www.goodreads.com/series/139161-raw-family) [Downloading, prob gonna take a month idk lol]
