@@ -24,7 +24,7 @@
 
 ---
 Currently Listening ➡️
-> *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 02:19:40
+> *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 06:34:08
 
 > *Brutal Obsession, Hockey Gods Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 05:23:55
 ---
