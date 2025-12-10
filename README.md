@@ -28,8 +28,11 @@
 Currently Listening ➡️
 > *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 06:34:08
 
+> **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• 06:20:00
+
 > *Brutal Obsession, Hockey Gods Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 05:23:55
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
+
 
 Watching 
 - [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
