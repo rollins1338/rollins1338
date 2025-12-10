@@ -30,7 +30,7 @@ Currently Listening ➡️
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• 06:20:00
 
-> *Brutal Obsession, Hockey Gods Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 05:23:55
+> *Brutal Obsession, Hockey Gods Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• CH52
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 
