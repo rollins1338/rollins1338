@@ -11,7 +11,8 @@
 ### Romantasy
 - x
 
----
+<img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
+<br>
 
 ### Standalones
 - x
@@ -23,6 +24,7 @@
 - [x] [Translation and Utilities Websites](https://github.com/rollins1338/websites/tree/main)
 
 ---
+
 Currently Listening ➡️
 > *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 06:34:08
 
