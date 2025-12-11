@@ -6,7 +6,7 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- x
+- [ ] [Two Weeks Notice](https://www.goodreads.com/book/show/40881450-two-weeks-notice)
 
 ### Romantasy
 - x
