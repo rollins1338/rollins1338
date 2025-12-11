@@ -18,11 +18,11 @@
 - [Santillian Triplets Series](https://www.goodreads.com/series/331387-the-santillian-triplets) [added to drive]
 - [Slow Burn Series](https://www.goodreads.com/series/216402-slow-burn) [added to drive]
 - [The Vancouver Agitators Series](https://www.goodreads.com/series/341399-the-vancouver-agitators) [added to drive]
-- [Bad Boy Billionaires](https://www.goodreads.com/series/205608-bad-boy-billionaires)
-- [Campus Diaries](https://www.goodreads.com/series/370213-campus-diaries)
-- [Fulton U Series](https://www.goodreads.com/series/261314-fulton-u)
-- [Mister Series](https://www.goodreads.com/series/236100-the-mr)
-- [North Shore Stories](https://www.goodreads.com/series/354794-north-shore-stories)
+- [Bad Boy Billionaires](https://www.goodreads.com/series/178890-billionaire-bad-boys) [added to drive]
+- [Campus Diaries](https://www.goodreads.com/series/365868-campus-diaries) [added to drive]
+- [Fulton U Series](https://www.goodreads.com/series/260214-fulton-u) [added to drive]
+- [Mister Series](https://www.goodreads.com/series/338793-mister) [added to drive]
+- [North Shore Stories](https://www.goodreads.com/series/369464-north-shore) [added to drive]
 
 ### Romantasy
 - x
