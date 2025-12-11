@@ -6,24 +6,7 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- [North Shore Stories](https://www.goodreads.com/series/369464-north-shore) d
-- [Beyond the Play Series](https://www.goodreads.com/series/351688-beyond-the-play) [added to drive] d
-- [Billionaires of Manhattan Series](https://www.goodreads.com/series/288392-billionaires-of-manhattan) [added to drive] d
-- [Briar U](https://www.goodreads.com/series/203975-briar-u) [added to drive] d
-- [Dirty Air Series](https://www.goodreads.com/series/275267-dirty-air) [added to drive]
-- [Game On Series](https://www.goodreads.com/series/131990-game-on) [added to drive]
-- [Harris Brothers Series](https://www.goodreads.com/series/203864-harris-brothers) [added to drive]
-- [Off-Campus Series](https://www.goodreads.com/series/144827-off-campus) [added to drive] d
-- [Pucked Series](https://www.goodreads.com/series/155737-pucked) [added to drive]
-- [Santillian Triplets Series](https://www.goodreads.com/series/331387-the-santillian-triplets) [added to drive]
-- [Slow Burn Series](https://www.goodreads.com/series/216402-slow-burn) [added to drive]
-- [The Vancouver Agitators Series](https://www.goodreads.com/series/341399-the-vancouver-agitators) [added to drive]
-- [Bad Boy Billionaires](https://www.goodreads.com/series/178890-billionaire-bad-boys) [added to drive]
-- [Campus Diaries](https://www.goodreads.com/series/365868-campus-diaries) [added to drive] d
-- [Fulton U Series](https://www.goodreads.com/series/260214-fulton-u) [added to drive]
-- [Mister Series](https://www.goodreads.com/series/338793-mister) [added to drive]
-- [North Shore Stories](https://www.goodreads.com/series/369464-north-shore) [added to drive]
-- [Dirty Duet](https://www.goodreads.com/series/195393-dirty-duet) [added to drive]
+- x
 
 ### Romantasy
 - x
@@ -31,9 +14,7 @@
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 ### Standalones
-- [Dr. Stanton](https://www.goodreads.com/series/281096-dr-stanton) [added to drive]
-- [Waking Olivia](https://www.goodreads.com/book/show/29103642-waking-olivia) [added to drive]
-- [Sinner](https://www.goodreads.com/book/show/38233153-sinner) [added to drive]
+- x
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
