@@ -23,6 +23,7 @@
 - [Fulton U Series](https://www.goodreads.com/series/260214-fulton-u) [added to drive]
 - [Mister Series](https://www.goodreads.com/series/338793-mister) [added to drive]
 - [North Shore Stories](https://www.goodreads.com/series/369464-north-shore) [added to drive]
+- [Dirty Duet](https://www.goodreads.com/series/195393-dirty-duet)
 
 ### Romantasy
 - x
@@ -32,6 +33,7 @@
 ### Standalones
 - [Dr. Stanton](https://www.goodreads.com/series/281096-dr-stanton) [added to drive]
 - [Waking Olivia](https://www.goodreads.com/book/show/29103642-waking-olivia) [added to drive]
+- [Sinner](https://www.goodreads.com/book/show/38233153-sinner)
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
