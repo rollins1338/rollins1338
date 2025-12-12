@@ -6,7 +6,7 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- x
+- add bleeding hearts bks 4,5
 ### Romantasy
 - x
 
