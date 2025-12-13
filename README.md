@@ -6,14 +6,16 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- x
+- [The Game Chnagers](https://www.goodreads.com/series/281844-the-game-changers) [bks 1,2] [Added to Drive]
+
 ### Romantasy
 - x
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 ### Standalones
-- x
+- [Dear Enemy](https://www.goodreads.com/book/show/49415471-dear-enemy) [Added to Drive]
+- [Latte Darling](https://www.goodreads.com/book/show/75572114-latte-darling) [Added to Drive]
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
