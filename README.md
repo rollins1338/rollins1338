@@ -18,7 +18,7 @@
 - [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [Added to Drive]
 - [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
 - [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
-- [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [bks 1,2,4,5,6] [x](https://05od2.mrd.ninja/9wn9)
+- [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [Added to Drive]
 
 j saman
 - [The Edge Series](https://www.goodreads.com/series/269023-the-edge) [x](https://05od2.mrd.ninja/Ipik)
