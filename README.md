@@ -3,7 +3,7 @@
 ![Banner Image](https://github.com/rollins1338/rollins1338/blob/main/1FY.jpg)
 <br>
 ## To-Do
-| add hockey gods book 3 | add to drive repo  >> 
+| add hockey gods book 3 [x](https://www.myanonamouse.net/t/983614) | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 - [The Game Changers](https://www.goodreads.com/series/281844-the-game-changers) [bks 1,2] [Added to Drive]
