@@ -13,10 +13,10 @@
 - [Chernov Bratva Duet](https://www.goodreads.com/series/362596-chernov-bratva) [DR] [Added to Drive]
 - [Mr. Series by T.L. Swan](https://www.goodreads.com/series/293083-mr-series) [Added to Drive]
 - [Lancaster Prep Series](https://www.goodreads.com/series/359258-lancaster-prep) + [Lancaster Prep Next Generation Series](https://www.goodreads.com/series/383039-lancaster-prep-next-generation) [Added to Drive]
-- [Tarnished Empire Series](https://www.goodreads.com/series/358658-tarnished-empire) [x](https://05od2.mrd.ninja/IPbp)
+- [Tarnished Empire Series](https://www.goodreads.com/series/358658-tarnished-empire) [x](https://05od2.mrd.ninja/IPbp) [downloading]
 - [Black Tie Billionaires](https://www.goodreads.com/series/379718-black-tie-billionaires) [Added to Drive]
-- [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits)
-- [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits)
+- [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [downloading]
+- [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [downloading]
 - [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
 - [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [bks 1,2,4,5,6] [x](https://05od2.mrd.ninja/9wn9)
 
@@ -24,7 +24,7 @@ j saman
 - [The Edge Series](https://www.goodreads.com/series/269023-the-edge) [x](https://05od2.mrd.ninja/Ipik)
 - [Wild Love](https://www.goodreads.com/series/312603-wild-to-love) [x](https://05od2.mrd.ninja/xaoL)
 - [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires) [x](https://05od2.mrd.ninja/oyPx)
-- [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston]
+- [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston] [downloading]
 
 ### Romantasy
 - x
