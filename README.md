@@ -25,7 +25,7 @@
 - [Dear Enemy](https://www.goodreads.com/book/show/49415471-dear-enemy) [Added to Drive]
 - [Latte Darling](https://www.goodreads.com/book/show/75572114-latte-darling) [Added to Drive]
 - [Make it Sweet](https://www.goodreads.com/book/show/54447129-make-it-sweet) [Added to Drive]
-- [Jagged Hearts](https://www.goodreads.com/book/show/60858349-jagged-harts) [Added to Drive]
+- [Jagged Harts](https://www.goodreads.com/book/show/60858349-jagged-harts) [Added to Drive]
 - [Ghosted](https://www.goodreads.com/book/show/36065344-ghosted) [Added to Drive]
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
