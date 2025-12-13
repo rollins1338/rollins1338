@@ -6,14 +6,14 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- add bleeding hearts bks 4,5
+- x
 ### Romantasy
 - x
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 ### Standalones
-- - [add](https://www.myanonamouse.net/t/1024089) [taboo dr]
+- x
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
