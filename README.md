@@ -15,8 +15,8 @@
 - [Lancaster Prep Series](https://www.goodreads.com/series/359258-lancaster-prep) + [Lancaster Prep Next Generation Series](https://www.goodreads.com/series/383039-lancaster-prep-next-generation) [Added to Drive]
 - [Tarnished Empire Series](https://www.goodreads.com/series/358658-tarnished-empire) [x](https://05od2.mrd.ninja/IPbp) [downloading]
 - [Black Tie Billionaires](https://www.goodreads.com/series/379718-black-tie-billionaires) [Added to Drive]
-- [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [downloading]
-- [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [downloading]
+- [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [Added to Drive]
+- [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
 - [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
 - [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [bks 1,2,4,5,6] [x](https://05od2.mrd.ninja/9wn9)
 
@@ -37,7 +37,7 @@ j saman
 - [Make it Sweet](https://www.goodreads.com/book/show/54447129-make-it-sweet) [Added to Drive]
 - [Jagged Harts](https://www.goodreads.com/book/show/60858349-jagged-harts) [Added to Drive]
 - [Ghosted](https://www.goodreads.com/book/show/36065344-ghosted) [Added to Drive]
-- [The Nanny Is Off Limits - Q.B. Tyler](https://www.goodreads.com/book/show/223437615-the-nanny-is-off-limits)
+- [The Nanny Is Off Limits - Q.B. Tyler](https://www.goodreads.com/book/show/223437615-the-nanny-is-off-limits) [Added to Drive]
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
