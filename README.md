@@ -6,7 +6,7 @@
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
-- [The Game Chnagers](https://www.goodreads.com/series/281844-the-game-changers) [bks 1,2] [Added to Drive]
+- [The Game Changers](https://www.goodreads.com/series/281844-the-game-changers) [bks 1,2] [Added to Drive]
 - [Hide and Seek Duet](https://www.goodreads.com/series/427040-hide-and-seek) [2nd book 27 Jan 26] [DR]
 - [Kings of Denver Series](https://www.goodreads.com/series/361726-kings-of-denver) [bks 1,3,4]
 - [The Alphaletes Series](https://www.goodreads.com/series/368119-the-alphaletes) [bks 1,3,4]
