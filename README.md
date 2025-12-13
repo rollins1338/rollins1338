@@ -24,7 +24,7 @@ j saman
 - [The Edge Series](https://www.goodreads.com/series/269023-the-edge) [x](https://05od2.mrd.ninja/Ipik)
 - [Wild Love](https://www.goodreads.com/series/312603-wild-to-love) [x](https://05od2.mrd.ninja/xaoL)
 - [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires) [x](https://05od2.mrd.ninja/oyPx)
-- [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [x](https://05od2.mrd.ninja/P1u7) [same universe as boston]
+- [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston]
 
 ### Romantasy
 - x
