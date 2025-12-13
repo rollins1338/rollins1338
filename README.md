@@ -38,6 +38,7 @@ j saman
 - [Jagged Harts](https://www.goodreads.com/book/show/60858349-jagged-harts) [Added to Drive]
 - [Ghosted](https://www.goodreads.com/book/show/36065344-ghosted) [Added to Drive]
 - [The Nanny Is Off Limits - Q.B. Tyler](https://www.goodreads.com/book/show/223437615-the-nanny-is-off-limits) [Added to Drive]
+- [Locked Inside](https://www.goodreads.com/book/show/222160041-locked-inside) [x](https://www.myanonamouse.net/t/1157973) ⭐⭐⭐⭐⭐
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
@@ -56,6 +57,8 @@ Currently Listening ➡️
 > *Brutal Obsession, Hockey Gods Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• CH52
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
+check for updates on this if audiobook releases >
+> [Deliver me](https://www.goodreads.com/book/show/239094490-deliver-me)
 
 Watching 
 - [Chinese yandere stuff](https://github.com/rollins1338/Chineseyandere/blob/main/README.md)
