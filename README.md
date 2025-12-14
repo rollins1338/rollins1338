@@ -21,20 +21,15 @@
 
 
 
+- [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4]  E
 
 
-- [Black Tie Billionaires](https://www.goodreads.com/series/379718-black-tie-billionaires) [Added to Drive]
-- [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [Added to Drive]
-- [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
-- [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] 
-- [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [Added to Drive]
-- [Shadows Series](https://www.goodreads.com/series/417016-shadows) [DR] [3rd book Feb 03,26] ⭐⭐⭐⭐⭐ [Added to Drive]
-- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite)  [Added to Drive]
+- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite)  [Added to Drive] E [IN DR]
 
 j saman
-- [The Edge Series](https://www.goodreads.com/series/269023-the-edge)  [Added to Drive]
-- [Wild Love](https://www.goodreads.com/series/312603-wild-to-love)  [Added to Drive]
-- [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires)  [Added to Drive]
+- [The Edge Series](https://www.goodreads.com/series/269023-the-edge)  [Added to Drive] E
+- [Wild Love](https://www.goodreads.com/series/312603-wild-to-love)  [Added to Drive] E
+- [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires)  [Added to Drive] E
 - [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston] [Added to Drive]
 
 James Cassidy
