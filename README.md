@@ -15,7 +15,7 @@
 
 
 ## To-Do
-| add hockey gods book 3 [x](https://www.myanonamouse.net/t/983614) | add to drive repo  >> 
+|  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 - [The Game Changers](https://www.goodreads.com/series/281844-the-game-changers) [bks 1,2] [Added to Drive]
@@ -29,22 +29,22 @@
 - [Black Tie Billionaires](https://www.goodreads.com/series/379718-black-tie-billionaires) [Added to Drive]
 - [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [Added to Drive]
 - [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
-- [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
+- [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] 
 - [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [Added to Drive]
 - [Shadows Series](https://www.goodreads.com/series/417016-shadows) [DR] [3rd book Feb 03,26] ⭐⭐⭐⭐⭐ [Added to Drive]
-- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite) [x](https://05od2.mrd.ninja/iJIH)
+- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite) 
 
 j saman
-- [The Edge Series](https://www.goodreads.com/series/269023-the-edge) [x](https://05od2.mrd.ninja/Ipik)
-- [Wild Love](https://www.goodreads.com/series/312603-wild-to-love) [x](https://05od2.mrd.ninja/xaoL)
-- [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires) [x](https://05od2.mrd.ninja/oyPx)
+- [The Edge Series](https://www.goodreads.com/series/269023-the-edge) 
+- [Wild Love](https://www.goodreads.com/series/312603-wild-to-love) 
+- [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires) 
 - [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston] [Added to Drive]
 
 James Cassidy
-- [Grim]() [x](https://www.myanonamouse.net/t/1187336)
-- [The Filthy Duet](https://www.goodreads.com/series/415942-the-filthy-duet) [x](https://05od2.mrd.ninja/nrRe)
-- [The Koslov Bratva Series](https://www.goodreads.com/series/400982-koslov-bratva) [x](https://05od2.mrd.ninja/S0mj)
-- [The Yegorov Bratva Series](https://www.goodreads.com/series/418901-yegorov-bratva) [x](https://05od2.mrd.ninja/22Qe)
+- [Grim]()
+- [The Filthy Duet](https://www.goodreads.com/series/415942-the-filthy-duet)
+- [The Koslov Bratva Series](https://www.goodreads.com/series/400982-koslov-bratva) 
+- [The Yegorov Bratva Series](https://www.goodreads.com/series/418901-yegorov-bratva)
 - Coerce [Alr added]
 
 
@@ -61,7 +61,7 @@ James Cassidy
 - [Jagged Harts](https://www.goodreads.com/book/show/60858349-jagged-harts) [Added to Drive]
 - [Ghosted](https://www.goodreads.com/book/show/36065344-ghosted) [Added to Drive]
 - [The Nanny Is Off Limits - Q.B. Tyler](https://www.goodreads.com/book/show/223437615-the-nanny-is-off-limits) [Added to Drive]
-- [Locked Inside](https://www.goodreads.com/book/show/222160041-locked-inside) [x](https://www.myanonamouse.net/t/1157973) ⭐⭐⭐⭐⭐
+- [Locked Inside](https://www.goodreads.com/book/show/222160041-locked-inside) ⭐⭐⭐⭐⭐
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
