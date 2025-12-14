@@ -47,7 +47,7 @@ James Cassidy
 
 ### Romantasy
 - [The Pale Court Duet](https://www.goodreads.com/series/345388-the-pale-court-duet) [Added to Drive]
-- [The Bridge Kingdom Series](https://www.goodreads.com/series/226883-the-bridge-kingdom) [bks 1,2] [x](https://05od2.mrd.ninja/JEEl)
+- [The Bridge Kingdom Series](https://www.goodreads.com/series/226883-the-bridge-kingdom) [bks 1,2] [Added to Drive]
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
