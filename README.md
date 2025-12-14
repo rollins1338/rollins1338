@@ -2,6 +2,18 @@
 
 ![Banner Image](https://github.com/rollins1338/rollins1338/blob/main/1FY.jpg)
 <br>
+
+## Index
+
+- [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
+- [x] [Western Dark Romance Novels](https://github.com/rollins1338/audiobooklist/tree/main)
+- [x] [Fanfics](https://github.com/rollins1338/Everything-Fanfic/tree/main)
+- [x] [Translation and Utilities Websites](https://github.com/rollins1338/websites/tree/main)
+
+<img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
+
+
+
 ## To-Do
 | add hockey gods book 3 [x](https://www.myanonamouse.net/t/983614) | add to drive repo  >> 
 
@@ -19,7 +31,7 @@
 - [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
 - [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
 - [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [Added to Drive]
-- [Shadows Series](https://www.goodreads.com/series/417016-shadows) [3rd book Feb 03,26] ⭐⭐⭐⭐⭐
+- [Shadows Series](https://www.goodreads.com/series/417016-shadows) [DR] [3rd book Feb 03,26] ⭐⭐⭐⭐⭐ [Added to Drive]
 - [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite) [x](https://05od2.mrd.ninja/iJIH)
 
 j saman
@@ -42,13 +54,6 @@ j saman
 - [Ghosted](https://www.goodreads.com/book/show/36065344-ghosted) [Added to Drive]
 - [The Nanny Is Off Limits - Q.B. Tyler](https://www.goodreads.com/book/show/223437615-the-nanny-is-off-limits) [Added to Drive]
 - [Locked Inside](https://www.goodreads.com/book/show/222160041-locked-inside) [x](https://www.myanonamouse.net/t/1157973) ⭐⭐⭐⭐⭐
-
-<img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
-
-- [x] [Translated Korean Novels](https://github.com/rollins1338/Novel-Lists-Utills)
-- [x] [Western Dark Romance Novels](https://github.com/rollins1338/audiobooklist/tree/main)
-- [x] [Fanfics](https://github.com/rollins1338/Everything-Fanfic/tree/main)
-- [x] [Translation and Utilities Websites](https://github.com/rollins1338/websites/tree/main)
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
