@@ -25,7 +25,7 @@
 - [Chernov Bratva Duet](https://www.goodreads.com/series/362596-chernov-bratva) [DR] [Added to Drive]
 - [Mr. Series by T.L. Swan](https://www.goodreads.com/series/293083-mr-series) [Added to Drive]
 - [Lancaster Prep Series](https://www.goodreads.com/series/359258-lancaster-prep) + [Lancaster Prep Next Generation Series](https://www.goodreads.com/series/383039-lancaster-prep-next-generation) [DR] [Added to Drive]
-- [Tarnished Empire Series](https://www.goodreads.com/series/358658-tarnished-empire) [x](https://05od2.mrd.ninja/IPbp) [downloading]
+- [Tarnished Empire Series](https://www.goodreads.com/series/358658-tarnished-empire) [Added to Drive]
 - [Black Tie Billionaires](https://www.goodreads.com/series/379718-black-tie-billionaires) [Added to Drive]
 - [Off Limits Series by Piper Lawson](https://www.goodreads.com/series/340452-off-limits) [Added to Drive]
 - [Off Limits Series by Catharina Maura](https://www.goodreads.com/series/317607-off-limits) [Added to Drive]
