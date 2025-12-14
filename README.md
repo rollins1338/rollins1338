@@ -20,6 +20,7 @@
 - [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks) [bks 1,2,3,4] [x](https://05od2.mrd.ninja/OMED)
 - [The Killers Series](https://www.goodreads.com/series/202175-the-killers) [Added to Drive]
 - [Shadows Series](https://www.goodreads.com/series/417016-shadows) [3rd book Feb 03,26] ⭐⭐⭐⭐⭐
+- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite) [x](https://05od2.mrd.ninja/iJIH)
 
 j saman
 - [The Edge Series](https://www.goodreads.com/series/269023-the-edge) [x](https://05od2.mrd.ninja/Ipik)
