@@ -40,6 +40,14 @@ j saman
 - [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires) [x](https://05od2.mrd.ninja/oyPx)
 - [Irresistibly Yours](https://www.goodreads.com/series/367400-irresistibly-yours) [same universe as boston] [Added to Drive]
 
+James Cassidy
+- [Grim]() [x](https://www.myanonamouse.net/t/1187336)
+- [The Filthy Duet](https://www.goodreads.com/series/415942-the-filthy-duet) [x](https://05od2.mrd.ninja/nrRe)
+- [The Koslov Bratva Series](https://www.goodreads.com/series/400982-koslov-bratva) [x](https://05od2.mrd.ninja/S0mj)
+- [The Yegorov Bratva Series](https://www.goodreads.com/series/418901-yegorov-bratva) [x](https://05od2.mrd.ninja/22Qe)
+- Coerce [Alr added]
+
+
 ### Romantasy
 - [The Pale Court Duet](https://www.goodreads.com/series/345388-the-pale-court-duet) [Downlaoding]
 - [The Bridge Kingdom Series](https://www.goodreads.com/series/226883-the-bridge-kingdom) [bks 1,2] [x](https://05od2.mrd.ninja/JEEl)
