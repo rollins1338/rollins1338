@@ -32,6 +32,10 @@ j saman
 - [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires)  [Added to Drive] E
 
 
+Jagger Cole
+- [*Dark Hearts*](https://www.audible.com/series/Dark-Hearts-Audiobooks/B0DJQFMFJN?ref_pageloadid=jLJV0zra8pmnvHYA&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=4J42RJS1Q954NCH53QA1&plink=HDggD4nqhJbG7TnY&pageLoadId=Jdb71wnpm0tzCEUt&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_ac_Devian_psu_series_1)
+- [*Savage Heirs*](https://www.audible.com/series/Savage-Heirs-Audiobooks/B0FTT736MH) {4th book 12-30-25}
+
 
 ### Romantasy
 - x
