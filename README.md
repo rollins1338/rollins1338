@@ -53,7 +53,7 @@ Currently Listening ➡️
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• RESTART
 
-> *Until forever ends* ▶︎•၊၊||၊|။||||။ ၊|• 2:19:00
+> *Until forever ends* ▶︎•၊၊||၊|။||||။ ၊|• CH29
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
