@@ -19,7 +19,7 @@
 
 ### Series/Duets [Contemporary]
 
-- x
+- [Clecanian Series](https://www.goodreads.com/series/283794-clecanian)
 
 ### Romantasy
 - x
