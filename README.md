@@ -19,27 +19,11 @@
 
 ### Series/Duets [Contemporary]
 
-
-
-- [Seattle Sharks Series](https://www.goodreads.com/series/181569-seattle-sharks)  [Added to Drive] [bks 1,2,3,4]  E
-
-- [The Mafia and His Angel Series](https://www.goodreads.com/series/358310-the-mafia-and-his-angel) newgen
-
-- [Whitmore Elite Series](https://www.goodreads.com/series/377333-whitmore-elite) [Added to Drive] E [IN DR]
-
-j saman
-- [The Edge Series](https://www.goodreads.com/series/269023-the-edge)  [Added to Drive] E
-- [Wild Love](https://www.goodreads.com/series/312603-wild-to-love)  [Added to Drive] E
-- [Boston's Irresistible Billionaires](https://www.goodreads.com/series/392707-boston-s-irresistible-billionaires)  [Added to Drive] E
-
-
-Jagger Cole
-- [*Dark Hearts*](https://www.audible.com/series/Dark-Hearts-Audiobooks/B0DJQFMFJN?ref_pageloadid=jLJV0zra8pmnvHYA&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=4J42RJS1Q954NCH53QA1&plink=HDggD4nqhJbG7TnY&pageLoadId=Jdb71wnpm0tzCEUt&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_ac_Devian_psu_series_1)  [Added to Drive] newgen
-- [*Savage Heirs*](https://www.audible.com/series/Savage-Heirs-Audiobooks/B0FTT736MH)  [Added to Drive] {4th book 12-30-25} newgen
-
+- x
 
 ### Romantasy
 - x
+  
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 ### Standalones
