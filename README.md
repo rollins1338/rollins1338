@@ -19,7 +19,10 @@
 
 ### Series/Duets [Contemporary]
 
-- [Clecanian Series](https://www.goodreads.com/series/283794-clecanian)
+- Callie Hart's Books[x](https://05od2.mrd.ninja/eNX7)
+  > Blood and Roses Series
+  > Dead Man's Ink Series
+  > Crooked Sinners Series
 
 ### Romantasy
 - x
