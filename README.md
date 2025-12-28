@@ -19,7 +19,7 @@
 
 ### Series/Duets [Contemporary]
 
-- Callie Hart's Books[x](https://05od2.mrd.ninja/eNX7)
+- Callie Hart's Books [x](https://05od2.mrd.ninja/eNX7)
   > Blood and Roses Series
   > Dead Man's Ink Series
   > Crooked Sinners Series
