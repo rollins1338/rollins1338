@@ -42,7 +42,9 @@ Currently Listening ➡️
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• RESTART
 
-> *Survival*, Book 2 of the Stronger Series ▶︎•၊၊||၊|။||||။ ၊|• 
+> *Survival*, Book 2 of the Stronger Series ▶︎•၊၊||၊|။||||။ ၊|• START
+
+> *Until Retribution Burns*, Book 3 of The Beauty in Lies Series ▶︎•၊၊||၊|။||||။ ၊|• START
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
