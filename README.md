@@ -42,7 +42,7 @@ Currently Listening ➡️
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• RESTART
 
-> ▶︎•၊၊||၊|။||||။ ၊|• 
+> *Survival*, Book 2 of the Stronger Series ▶︎•၊၊||၊|။||||။ ၊|• 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
