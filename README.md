@@ -15,7 +15,7 @@
 
 
 ## To-Do
-| start matryoshka again u dumbfck <ok> | add to drive repo  >> 
+| start matryoshka again u dumbfck <.ok.> | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 
