@@ -21,7 +21,7 @@
 
 - The Beckett Brothers [x](https://05od2.mrd.ninja/eSyh) [bks 1,3] cntp hs
 
-- [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) x
+- [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) [x](https://05od2.mrd.ninja/emC9)
 
 ### Romantasy
 - x
