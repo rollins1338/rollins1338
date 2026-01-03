@@ -19,12 +19,7 @@
 
 ### Series/Duets [Contemporary]
 
-- Callie Hart's Books [x](https://05od2.mrd.ninja/eNX7)
-  > Blood and Roses Series
-  
-  > Dead Man's Ink Series
-  
-  > Crooked Sinners Series
+- The Beckett Brothers [x](https://05od2.mrd.ninja/eSyh) [bks 1,3] cntp hs
 
 - [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) x
 
