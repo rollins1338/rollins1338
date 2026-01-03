@@ -26,6 +26,8 @@
   
   > Crooked Sinners Series
 
+- [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) x
+
 ### Romantasy
 - x
   
