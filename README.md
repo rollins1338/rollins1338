@@ -23,6 +23,8 @@
 
 - [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) [x](https://05od2.mrd.ninja/emC9)
 
+- [Oakmount Elite Series](https://www.goodreads.com/series/367466-oakmount-elite) [x](https://05od2.mrd.ninja/9hsH) [bks 1-5]
+
 ### Romantasy
 - x
   
