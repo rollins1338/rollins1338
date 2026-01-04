@@ -19,11 +19,11 @@
 
 ### Series/Duets [Contemporary]
 
-- The Beckett Brothers [x](https://05od2.mrd.ninja/eSyh) [bks 1,3] cntp hs
+- The Beckett Brothers [x](https://05od2.mrd.ninja/eSyh) [bks 1,3] cntp hs [added to drive]
 
-- [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) [x](https://05od2.mrd.ninja/emC9)
+- [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) [x](https://05od2.mrd.ninja/emC9) [added to drive]
 
-- [Oakmount Elite Series](https://www.goodreads.com/series/367466-oakmount-elite) [x](https://05od2.mrd.ninja/9hsH) [bks 1-5]
+- [Oakmount Elite Series](https://www.goodreads.com/series/367466-oakmount-elite) [x](https://05od2.mrd.ninja/9hsH) [bks 1-5] [added to drive]
 
 ### Romantasy
 - x
