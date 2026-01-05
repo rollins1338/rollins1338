@@ -25,9 +25,9 @@
 
 - [Oakmount Elite Series](https://www.goodreads.com/series/367466-oakmount-elite) [x](https://05od2.mrd.ninja/9hsH) [bks 1-5] [added to drive]
 
-- [Bratva Kings](https://www.goodreads.com/series/407788-bratva-kings) [x](https://05od2.mrd.ninja/Zlm-)
+- [Bratva Kings](https://www.goodreads.com/series/407788-bratva-kings) [x](https://05od2.mrd.ninja/Zlm-) [added to drive]
 
-- [Dark Forces Series](https://www.goodreads.com/series/419140-dark-forces) [x](https://05od2.mrd.ninja/5men)
+- [Dark Forces Series](https://www.goodreads.com/series/419140-dark-forces) [x](https://05od2.mrd.ninja/5men) [added to drive]
 
 ### Romantasy
 - x
