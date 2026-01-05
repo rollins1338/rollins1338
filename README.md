@@ -27,6 +27,8 @@
 
 - [Bratva Kings](https://www.goodreads.com/series/407788-bratva-kings) [x](https://05od2.mrd.ninja/Zlm-)
 
+- [Dark Forces Series](https://www.goodreads.com/series/419140-dark-forces) [x](https://05od2.mrd.ninja/5men)
+
 ### Romantasy
 - x
   
