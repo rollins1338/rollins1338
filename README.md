@@ -19,6 +19,8 @@
 
 ### Series/Duets [Contemporary]
 
+- Forbidden Crown (Savage Heirs) [x](https://www.myanonamouse.net/t/1209296)
+
 - The Beckett Brothers [x](https://05od2.mrd.ninja/eSyh) [bks 1,3] cntp hs [added to drive]
 
 - [Saint and Sinner Duet](https://www.goodreads.com/series/391683-saint-and-sinner-duet) [x](https://05od2.mrd.ninja/emC9) [added to drive]
