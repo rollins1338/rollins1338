@@ -37,7 +37,7 @@ Currently Listening ➡️
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• RESTART
 
-> *SPARK*, Book 3 of the Stronger Series ▶︎•၊၊||၊|။||||။ ၊|• 5 hours something idk
+> *SPARK*, Book 3 of the Stronger Series ▶︎•၊၊||၊|။||||။ ၊|• just restart
 
 > *Until Retribution Burns*, Book 3 of The Beauty in Lies Series ▶︎•၊၊||၊|။||||။ ၊|• START
 
