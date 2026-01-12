@@ -19,7 +19,7 @@
 
 ### Series/Duets [Contemporary]
 
-- x
+- Download and add [these](https://05od2.mrd.ninja/R7gc)
 
 ### Romantasy
 - x
