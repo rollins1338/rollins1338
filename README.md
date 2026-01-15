@@ -23,7 +23,7 @@
 
 ### Series/Duets [Historical]
 
-- x
+- Uptown Gs [x](https://05od2.mrd.ninja/-i5a)
 
 ### Romantasy
 - x
