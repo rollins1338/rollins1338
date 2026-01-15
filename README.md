@@ -19,7 +19,8 @@
 
 ### Series/Duets [Contemporary]
 
-- x
+- check and dl [x](https://05od2.mrd.ninja/_8R8)
+- check and dl [x](https://05od2.mrd.ninja/TU2I)
 
 ### Romantasy
 - x
