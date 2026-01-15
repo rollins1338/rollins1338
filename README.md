@@ -23,16 +23,7 @@
 
 ### Series/Duets [Historical]
 
-> Joanna Shupe
- - The Knickerbocker Club Series [x](https://05od2.mrd.ninja/y7-x)
- - Uptown Girls Series [x](https://05od2.mrd.ninja/QhKc)
- - The Fifth Avenue Rebels Series [x](https://05od2.mrd.ninja/dUGu)
- - The Four Hundred Series [x](https://05od2.mrd.ninja/mZ13)
-
-> Kerrigan Byrne
- - Devil You Know Series [x](https://05od2.mrd.ninja/qcEc)
- - Townsend Harbor Series [x](https://05od2.mrd.ninja/lwdi)
- - Victorian Rebels Series [x](https://05od2.mrd.ninja/0gs8)
+- x
 
 ### Romantasy
 - x
@@ -41,9 +32,7 @@
 
 ### Standalones
 
-- [The Gilded Heiress](https://www.romance.io/books/657ac8637ed1d0fdd40d02d5/the-gilded-heiress-joanna-shupe) [x](https://www.myanonamouse.net/t/1176321)
-- [Blood Over Bright Haven](https://www.romance.io/books/657e10857c150060affb7a29/blood-over-bright-haven-ml-wang) [Dark Academia] [x](https://www.myanonamouse.net/t/1087053)
-- The Death of Jane Lawrence [x](https://www.myanonamouse.net/t/758807)
+- x
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
