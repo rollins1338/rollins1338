@@ -19,7 +19,7 @@
 
 ### Series/Duets [Contemporary]
 
-- x
+- Get this after the 2nd book releases [x](https://05od2.mrd.ninja/BMLN)
 
 ### Series/Duets [Historical]
 
