@@ -23,7 +23,7 @@
 
 ### Series/Duets [Historical]
 
-- 
+- x
 
 ### Romantasy
 - x
