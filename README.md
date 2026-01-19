@@ -27,7 +27,7 @@
 - x
 
 ### Romantasy
-- x
+- evaluate and download [this](https://05od2.mrd.ninja/iUoK) author's Romantasy books 
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
