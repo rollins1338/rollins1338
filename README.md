@@ -37,7 +37,7 @@
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 Currently Listening ➡️
-> *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 09:20:00
+> *Playing With Monsters, Book 01*  ▶︎•၊၊||၊|။||||။ ၊|• 13 something hrs
 
 > **The Bad Guy** ▶︎•၊၊||၊|။||||။ ၊|• RESTART
 
