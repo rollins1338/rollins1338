@@ -20,6 +20,7 @@
 ### Series/Duets [Contemporary]
 
 - Get this after the 2nd book releases [x](https://05od2.mrd.ninja/BMLN)
+- [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
 
 ### Series/Duets [Historical]
 
