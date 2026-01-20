@@ -15,7 +15,7 @@
 
  
 ## To-Do
-|  | add to drive repo  >> 
+| make a GEM from [this](https://docs.google.com/document/d/192N6L3uo9VWANWOlJkeopYMihDsNnGhzvu-AaRhAoP4/edit?tab=t.0). Edit names | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 
