@@ -15,7 +15,7 @@
 
  
 ## To-Do
-| make a GEM from [this](https://docs.google.com/document/d/192N6L3uo9VWANWOlJkeopYMihDsNnGhzvu-AaRhAoP4/edit?tab=t.0). Edit names | add to drive repo  >> 
+|  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
 
@@ -27,7 +27,7 @@
 - x
 
 ### Romantasy
-- evaluate and download [this](https://05od2.mrd.ninja/iUoK) author's Romantasy books 
+- x
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
