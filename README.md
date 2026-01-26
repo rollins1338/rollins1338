@@ -27,7 +27,7 @@
 - x
 
 ### Romantasy
-- x
+- [The Poet Empress](https://audiobookbay.lu/abss/the-poet-empress-shen-tao/) 
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
