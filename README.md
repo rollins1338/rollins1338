@@ -19,9 +19,8 @@
 
 ### Series/Duets [Contemporary]
 
-- Get this after the 2nd book releases [x](https://05od2.mrd.ninja/BMLN)
-- [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
-- [Monsters Within](https://www.romance.io/series/68489191e474a8bc22f48a26/monsters-within) [Monsters and Muses Universe]
+- x
+
 ### Series/Duets [Historical]
 
 - x
@@ -47,6 +46,15 @@ Currently Listening ➡️
 > *Until Retribution Burns*, Book 3 of The Beauty in Lies Series ▶︎•၊၊||၊|။||||။ ၊|• START
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
+
+### Wait for new books
+
+- Get this after the 2nd book releases [x](https://05od2.mrd.ninja/BMLN)
+- [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
+- [The Wolves of Ruin Series](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) [Wait for Book 2,3 Audiobooks] (bk2 5-5-26, bk3 idk)
+
+
+
 
 check for updates on this if audiobook releases >
 > [Deliver me](https://www.goodreads.com/book/show/239094490-deliver-me)
