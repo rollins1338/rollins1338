@@ -62,6 +62,7 @@ Currently Listening ➡️
 | [Crown of Hearts & Chaos](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos) | 📖 **Book 2:** Jul 14 |
 | [Soldiers of Bedlam](https://www.goodreads.com/series/419000-the-soldiers-of-bedlam) | 📖 **Book 3:** Jul 14 |
 | [Echoes of Eternity](https://www.goodreads.com/series/415786-echoes-of-eternity) | 🔮 **Book 2:** TBA |
+| Deathcaller Duet | Book 2 look out for it [x](https://05od2.mrd.ninja/QviK) |
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
