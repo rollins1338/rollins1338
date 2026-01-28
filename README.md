@@ -55,6 +55,7 @@ Currently Listening ➡️
 - [Crown of Hearts and Chaos Series](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos) [Bk 2 unreleased, Exp. 14 Jul 26]
 - [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) [bk 3 audio Feb 03,26]
 - [Echoes of Eternity Series](https://www.goodreads.com/series/415786-echoes-of-eternity) [bk 2 release date tba]
+- [The Soldiers of Bedlam Series](https://www.goodreads.com/series/419000-the-soldiers-of-bedlam) [bk 3 Expected 14 Jul 26]
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
