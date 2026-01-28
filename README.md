@@ -46,6 +46,7 @@ Currently Listening ➡️
 > *Until Retribution Burns*, Book 3 of The Beauty in Lies Series ▶︎•၊၊||၊|။||||။ ၊|• START
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
+
 | 📅 Date | Series Name | Notes |
 | :--- | :--- | :--- |
 | **Feb 03** | [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) | 🎧 Book 3 (Audio) |
