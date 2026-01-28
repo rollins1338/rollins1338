@@ -21,7 +21,7 @@
 
 - Get this after the 2nd book releases [x](https://05od2.mrd.ninja/BMLN)
 - [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
-
+- [Monsters Within](https://www.romance.io/series/68489191e474a8bc22f48a26/monsters-within) [Monsters and Muses Universe]
 ### Series/Duets [Historical]
 
 - x
