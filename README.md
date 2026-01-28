@@ -47,16 +47,20 @@ Currently Listening ➡️
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
-### Wait for new books
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                       WAIT FOR NEW BOOKS                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+`[FEB]` 📅 03rd ...... [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) (Bk 3 Audio)
+`[APR]` 📅 10th ...... [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) (Bk 3)
+`[MAY]` 📅 05th ...... [The Wolves of Ruin Series](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) (Bk 2 Audio)
+`[JUL]` 📅 10th ...... [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) (Bk 4)
+`[JUL]` 📅 14th ...... [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) (Bk 2)
+`[JUL]` 📅 14th ...... [Crown of Hearts and Chaos Series](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos) (Bk 2)
+`[JUL]` 📅 14th ...... [The Soldiers of Bedlam Series](https://www.goodreads.com/series/419000-the-soldiers-of-bedlam) (Bk 3)
 
-- [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) [x](https://05od2.mrd.ninja/BMLN) [bk 3 April 10, 2026, bk 4 July 10, 2026]
-- [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
-- [The Wolves of Ruin Series](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) [Wait for Book 2,3 Audiobooks] (bk2 5-5-26, bk3 idk)
-- [Crown of Hearts and Chaos Series](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos) [Bk 2 unreleased, Exp. 14 Jul 26]
-- [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) [bk 3 audio Feb 03,26]
-- [Echoes of Eternity Series](https://www.goodreads.com/series/415786-echoes-of-eternity) [bk 2 release date tba]
-- [The Soldiers of Bedlam Series](https://www.goodreads.com/series/419000-the-soldiers-of-bedlam) [bk 3 Expected 14 Jul 26]
-
+`[TBA]` 🔮 [Echoes of Eternity Series](https://www.goodreads.com/series/415786-echoes-of-eternity) (Bk 2)
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 
