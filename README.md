@@ -53,7 +53,7 @@ Currently Listening ➡️
 - [Defying the Stars Series](https://www.goodreads.com/series/416035-defying-the-stars) [Book 1](https://www.myanonamouse.net/t/1185170) [Book 2 July 14, 26]
 - [The Wolves of Ruin Series](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) [Wait for Book 2,3 Audiobooks] (bk2 5-5-26, bk3 idk)
 
-
+<img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 
 check for updates on this if audiobook releases >
