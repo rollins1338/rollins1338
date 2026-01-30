@@ -56,7 +56,7 @@ Currently Listening ➡️
 | :--- | :--- |
 | [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) | 🎧 **Book 3 (Audio):** Feb 03 |
 | [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) | 📖 **Book 3:** Apr 10 |
-| [The Wolves of Ruin](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) | 🎧 **Book 2 (Audio):** May 05 |
+| [The Wolves of Ruin Series](https://www.romance.io/series/67c0f6ee50ec256fb81f6755/the-wolves-of-ruin) | 🎧 **Book 2 (Audio):** May 05, Book 3 Release Date TBA |
 | [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) | 📖 **Book 4:** Jul 10 |
 | [Defying the Stars](https://www.goodreads.com/series/416035-defying-the-stars) | 📖 **Book 2:** Jul 14 |
 | [Crown of Hearts & Chaos](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos) | 📖 **Book 2:** Jul 14 |
