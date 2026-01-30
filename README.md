@@ -15,6 +15,18 @@
 
  
 ## To-Do
+
+### ABS Stuff
+
+> Scan Again
+  - [ ] Sports
+  - [x] Romantasy
+  - [x] Dark Romance
+
+> Match Books
+  - [ ] Sports
+  - [ ] Romantasy
+
 |  | add to drive repo  >> 
 
 ### Series/Duets [Contemporary]
