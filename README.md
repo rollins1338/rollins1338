@@ -53,9 +53,7 @@ Currently Listening ➡️
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-#### MM-DD-YY
-
-| Series Name | Upcoming Release |
+| Series Name | Upcoming Release [MM-DD-YY] |
 | :--- | :--- |
 | [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) | 🎧 **Book 3 (Audio):** Feb 03 |
 | [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) | 📖 **Book 3:** Apr 10 |
