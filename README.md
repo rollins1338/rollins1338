@@ -70,6 +70,7 @@ Currently Listening ➡️
 | [Moonshot Hockey](https://www.goodreads.com/series/424795-moonshot-hockey) | Book 2, Release date: 02-24-26, Book 3 TBA |
 | [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP) | Book 2, Release Date TBA |
 | [The Wolf King Series](https://www.audible.com/series/The-Wolf-King-Audiobooks/B0DTQ4FPVX?ref_pageloadid=not_applicable&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=7TTPPRZTS57H1E9KDE4J&plink=RPCY4sRVG8gmrj2m&pageLoadId=iN8ICNMgBuzcscgg&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Cr_c10_adblp13nssgb_2) | Book 3 Release date: 09-08-26 |
+| [The Shadows Series](https://www.audible.com/series/The-Shadows-Series-Audiobooks/B0FCM8JDD5?ref_pageloadid=MPsJbkBGDAVupqhs&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=6HRX47Z9N56H9YWW4C8Z&plink=YrSGLMDKuDVAWyx4&pageLoadId=SZvtqxRyeYlZEqGE&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_In-the_psu_series_1) | Book 3, Release date: 02-03-26 |
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
