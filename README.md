@@ -76,6 +76,8 @@ Currently Listening ➡️
 |[ Bloodwing Academy](https://www.audible.com/series/Bloodwing-Academy-Audiobooks/B0DYSWXFHN?ref_pageloadid=9ycFOhorK3uUVvNc&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=WXF822MZJJ9SVBR96MCD&plink=SFqpzAT5gZKpmyfb&pageLoadId=N6TO6EFoM29s5uQe&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Sp_c10_adblp13nssgb_6) | Book 3, Release date: 03-10-26 |
 | [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1) | REQ BOOK 3. BOOK 4, Release date: 04-28-26 |
 | [Compelling Fates Saga](https://www.audible.com/series/Compelling-Fates-Saga-Audiobooks/B0F9FHDZBH?ref_pageloadid=UJ5pozjvnQDUTZ7D&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=ST83D2XME8GB7C597HAF&plink=n6bKoRcehFgGgwjQ&pageLoadId=FZHK184x8SxcCzuf&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Fl_c10_adblp13nssgb_3) | Book 3, Release date: 02-10-26. Book 4, Release date: 06-23-26 |
+| [Bratva Series [T J Maguire]](https://www.audible.com/series/Bratva-Series-Audiobooks/B0F18X78ZY?ref_pageloadid=Xyi1kLI76h0oGoOm&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=B2VKMVGFTAF1ZFQMP1Y2&plink=ViNWU0pkhjTJrPdJ&pageLoadId=E5uvJwt1ujs1m6TL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Bratva_psu_series_1) | BOOK 4, Release date: 02-10-26, Book 5 TBA |
+
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
