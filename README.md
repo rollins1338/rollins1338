@@ -66,6 +66,7 @@ Currently Listening ➡️
 | [Aster Springs](https://www.goodreads.com/series/396790-aster-springs) | Book 3 Release Date TBA [Updates](https://www.audible.com/series/Aster-Springs-Audiobooks/B0FTD9LT1T?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=0SMPKDD5CAP9TXX8AZ1W&plink=oRLzY7CHIaQMeZsu&pageLoadId=1fUmkzyR7hlSNL85&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Wallfl_psu_series_1) |
 | Crowns of Nyaxia | Book 5 Expected publication August 4, 2026 |
 | The Eating Woods | Book 2, Audible Release date: 03-31-26 |
+| [Chaosborn Series](https://www.goodreads.com/series/417112-chaosborn) | TBA |
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
