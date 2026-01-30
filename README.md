@@ -68,6 +68,7 @@ Currently Listening ➡️
 | The Eating Woods | Book 2, Audible Release date: 03-31-26 |
 | [Chaosborn Series](https://www.goodreads.com/series/417112-chaosborn) | TBA |
 | [Moonshot Hockey](https://www.goodreads.com/series/424795-moonshot-hockey) | Book 2, Release date: 02-24-26, Book 3 TBA |
+| [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP) | Book 2, Release Date TBA |
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
