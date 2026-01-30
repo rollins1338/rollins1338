@@ -20,12 +20,12 @@
 
 > Scan Again
   - [ ] Sports
-  - [x] Romantasy
-  - [x] Dark Romance
+  - [ ] Romantasy
+  - [ ] Dark Romance
 
 > Match Books
-  - [ ] Sports
-  - [ ] Romantasy
+  - [x] Sports
+  - [x] Romantasy
 
 |  | add to drive repo  >> 
 
