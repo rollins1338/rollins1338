@@ -65,7 +65,7 @@ WAITLIST
 
 ```
 
-| Series Name | Upcoming Release [MM-DD-YY] |
+| Series Name | Upcoming Release |
 | :--- | :--- |
 | [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen) | 🎧 **Book 3 (Audio):** Feb 03 |
 | [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak) | 📖 **Book 3:** Apr 10 |
@@ -78,20 +78,21 @@ WAITLIST
 | [Deathcaller Duet](https://www.goodreads.com/series/434620-deathcaller-duet) | Book 2 look out for it [x](https://05od2.mrd.ninja/QviK) |
 | [Aster Springs](https://www.goodreads.com/series/396790-aster-springs) | Book 3 Release Date TBA [Updates](https://www.audible.com/series/Aster-Springs-Audiobooks/B0FTD9LT1T?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=0SMPKDD5CAP9TXX8AZ1W&plink=oRLzY7CHIaQMeZsu&pageLoadId=1fUmkzyR7hlSNL85&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Wallfl_psu_series_1) |
 | Crowns of Nyaxia | Book 5 Expected publication August 4, 2026 |
-| The Eating Woods | Book 2, Audible Release date: 03-31-26 |
+| The Eating Woods | Book 2, Audible Release March 31 |
 | [Chaosborn Series](https://www.goodreads.com/series/417112-chaosborn) | TBA |
-| [Moonshot Hockey](https://www.goodreads.com/series/424795-moonshot-hockey) | Book 2, Release date: 02-24-26, Book 3 TBA |
+| [Moonshot Hockey](https://www.goodreads.com/series/424795-moonshot-hockey) | Book 2, Release Feb 24, Book 3 TBA |
 | [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP) | Book 2, Release Date TBA |
-| [The Wolf King Series](https://www.audible.com/series/The-Wolf-King-Audiobooks/B0DTQ4FPVX?ref_pageloadid=not_applicable&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=7TTPPRZTS57H1E9KDE4J&plink=RPCY4sRVG8gmrj2m&pageLoadId=iN8ICNMgBuzcscgg&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Cr_c10_adblp13nssgb_2) | Book 3 Release date: 09-08-26 |
-| [The Shadows Series](https://www.audible.com/series/The-Shadows-Series-Audiobooks/B0FCM8JDD5?ref_pageloadid=MPsJbkBGDAVupqhs&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=6HRX47Z9N56H9YWW4C8Z&plink=YrSGLMDKuDVAWyx4&pageLoadId=SZvtqxRyeYlZEqGE&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_In-the_psu_series_1) | Book 3, Release date: 02-03-26 |
+| [The Wolf King Series](https://www.audible.com/series/The-Wolf-King-Audiobooks/B0DTQ4FPVX?ref_pageloadid=not_applicable&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=7TTPPRZTS57H1E9KDE4J&plink=RPCY4sRVG8gmrj2m&pageLoadId=iN8ICNMgBuzcscgg&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Cr_c10_adblp13nssgb_2) | Book 3 Release Sep 08 |
+| [The Shadows Series](https://www.audible.com/series/The-Shadows-Series-Audiobooks/B0FCM8JDD5?ref_pageloadid=MPsJbkBGDAVupqhs&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=6HRX47Z9N56H9YWW4C8Z&plink=YrSGLMDKuDVAWyx4&pageLoadId=SZvtqxRyeYlZEqGE&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_In-the_psu_series_1) | Book 3 Release March 02 |
 | [Cruel Crown Series](https://www.goodreads.com/series/277684-cruel-crown) | BOOK 2 TBA |
-|[ Bloodwing Academy](https://www.audible.com/series/Bloodwing-Academy-Audiobooks/B0DYSWXFHN?ref_pageloadid=9ycFOhorK3uUVvNc&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=WXF822MZJJ9SVBR96MCD&plink=SFqpzAT5gZKpmyfb&pageLoadId=N6TO6EFoM29s5uQe&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Sp_c10_adblp13nssgb_6) | Book 3, Release date: 03-10-26 |
-| [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1) | REQ BOOK 3. BOOK 4, Release date: 04-28-26 |
-| [Compelling Fates Saga](https://www.audible.com/series/Compelling-Fates-Saga-Audiobooks/B0F9FHDZBH?ref_pageloadid=UJ5pozjvnQDUTZ7D&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=ST83D2XME8GB7C597HAF&plink=n6bKoRcehFgGgwjQ&pageLoadId=FZHK184x8SxcCzuf&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Fl_c10_adblp13nssgb_3) | Book 3, Release date: 02-10-26. Book 4, Release date: 06-23-26 |
-| [Bratva Series [T J Maguire]](https://www.audible.com/series/Bratva-Series-Audiobooks/B0F18X78ZY?ref_pageloadid=Xyi1kLI76h0oGoOm&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=B2VKMVGFTAF1ZFQMP1Y2&plink=ViNWU0pkhjTJrPdJ&pageLoadId=E5uvJwt1ujs1m6TL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Bratva_psu_series_1) | BOOK 4, Release date: 02-10-26, Book 5 TBA |
-| [Into Darkness](https://www.audible.com/series/Into-Darkness-Audiobooks/B0D81P952Y?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=3PK58E2E17DCPREQ2X7Q&plink=cyJ8BW7U3gEDkB1D&pageLoadId=JJf1mlMIkeh4KMS0&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Game-O_psu_series_1) | Book 3, Release date: 03-31-26 |
+|[ Bloodwing Academy](https://www.audible.com/series/Bloodwing-Academy-Audiobooks/B0DYSWXFHN?ref_pageloadid=9ycFOhorK3uUVvNc&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=WXF822MZJJ9SVBR96MCD&plink=SFqpzAT5gZKpmyfb&pageLoadId=N6TO6EFoM29s5uQe&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Sp_c10_adblp13nssgb_6) | Book 3 Release March 10 |
+| [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1) | REQ BOOK 3. BOOK 4 Release April 28 |
+| [Compelling Fates Saga](https://www.audible.com/series/Compelling-Fates-Saga-Audiobooks/B0F9FHDZBH?ref_pageloadid=UJ5pozjvnQDUTZ7D&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=ST83D2XME8GB7C597HAF&plink=n6bKoRcehFgGgwjQ&pageLoadId=FZHK184x8SxcCzuf&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Fl_c10_adblp13nssgb_3) | Book 3 Release, Feb 10. Book 4, Release date: 06-23-26 |
+| [Bratva Series [T J Maguire]](https://www.audible.com/series/Bratva-Series-Audiobooks/B0F18X78ZY?ref_pageloadid=Xyi1kLI76h0oGoOm&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=B2VKMVGFTAF1ZFQMP1Y2&plink=ViNWU0pkhjTJrPdJ&pageLoadId=E5uvJwt1ujs1m6TL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Bratva_psu_series_1) | BOOK 4 Release Feb 10, Book 5 TBA |
+| [Into Darkness](https://www.audible.com/series/Into-Darkness-Audiobooks/B0D81P952Y?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=3PK58E2E17DCPREQ2X7Q&plink=cyJ8BW7U3gEDkB1D&pageLoadId=JJf1mlMIkeh4KMS0&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Game-O_psu_series_1) | Book 3 Release, March 31 |
 | [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey) | Book 3, Expected publication April 2, 2026 |
 | [The Choosing Chronicles](https://www.goodreads.com/series/388014-the-choosing-chronicles) | Book 4, Expected 3 Jun 26 |
+| The Stonewater Kingdom | Book 2 Release, Sep 01 |
 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
