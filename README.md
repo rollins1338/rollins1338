@@ -89,7 +89,7 @@ Currently Listening ➡️
 │    ├─┬─ [The Shadows Series](https://www.audible.com/series/The-Shadows-Series-Audiobooks/B0FCM8JDD5?ref_pageloadid=MPsJbkBGDAVupqhs&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=6HRX47Z9N56H9YWW4C8Z&plink=YrSGLMDKuDVAWyx4&pageLoadId=SZvtqxRyeYlZEqGE&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_In-the_psu_series_1)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 🎧 Format: Audio  
-│    │ └─── 📅 Release: March 02  
+│    │ └─── 📅 Release: Feb 03  
 │    │  
 │    ├─┬─ [Bloodwing Academy](https://www.audible.com/series/Bloodwing-Academy-Audiobooks/B0DYSWXFHN?ref_pageloadid=9ycFOhorK3uUVvNc&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=WXF822MZJJ9SVBR96MCD&plink=SFqpzAT5gZKpmyfb&pageLoadId=N6TO6EFoM29s5uQe&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Sp_c10_adblp13nssgb_6)  
 │    │ ├─── 📚 Book 3  
