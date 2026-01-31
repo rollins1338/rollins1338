@@ -91,6 +91,7 @@ WAITLIST
 | [Bratva Series [T J Maguire]](https://www.audible.com/series/Bratva-Series-Audiobooks/B0F18X78ZY?ref_pageloadid=Xyi1kLI76h0oGoOm&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=B2VKMVGFTAF1ZFQMP1Y2&plink=ViNWU0pkhjTJrPdJ&pageLoadId=E5uvJwt1ujs1m6TL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Bratva_psu_series_1) | BOOK 4, Release date: 02-10-26, Book 5 TBA |
 | [Into Darkness](https://www.audible.com/series/Into-Darkness-Audiobooks/B0D81P952Y?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=3PK58E2E17DCPREQ2X7Q&plink=cyJ8BW7U3gEDkB1D&pageLoadId=JJf1mlMIkeh4KMS0&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Game-O_psu_series_1) | Book 3, Release date: 03-31-26 |
 | [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey) | Book 3, Expected publication April 2, 2026 |
+| [The Choosing Chronicles](https://www.goodreads.com/series/388014-the-choosing-chronicles) | Book 4, Expected 3 Jun 26 |
 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
