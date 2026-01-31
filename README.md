@@ -240,12 +240,6 @@ Currently Listening ➡️
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
-**📌 SPECIAL TRACKING**
-
-> check for updates on this if audiobook releases >  
-> [Deliver me](https://www.goodreads.com/book/show/239094490-deliver-me)
-
-<img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 **📌 SPECIAL TRACKING**
 
