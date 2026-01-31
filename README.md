@@ -242,9 +242,12 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audio  
      │ └─── 📅 Release: TBA  
      │
+     │
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
        ├─── 📚 Books 2 & 3  
-       ├─── 📖 Format: Audiobook 
+       │
+       ├─── 📖 Format: Audiobook
+       │
        └─── 📅 Release: TBA  
 
 
