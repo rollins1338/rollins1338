@@ -159,6 +159,10 @@ Currently Listening ➡️
 │      ├─── 📚 Book 3  
 │      ├─── 📖 Format: Ebook  
 │      └─── 📅 Release: Jul 14  
+│    ├─┬─ [Sorrowsong University]([HYPERLINK](https://www.audible.com/series/Sorrowsong-University-Audiobooks/B0F2NVXN6J?ref_pageloadid=not_applicable&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=WWEXPE9RR53DG05SVYDD&plink=SkO81wf1Ui2BMT9J&pageLoadId=r3Zs6ESKEmEstRHL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Nights_psu_series_1))  
+│    │ ├─── 📚 Book 2  
+│    │ ├─── 🎧 Format: Audio  
+│    │ └─── 📅 Release: Jul 28  
 │  
 ├─── 🍂 **AUGUST 2026**  
 │    │  
