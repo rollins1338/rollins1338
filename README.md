@@ -208,13 +208,13 @@ Currently Listening ➡️
      │ └─── 🔗 [Updates](https://www.audible.com/series/Aster-Springs-Audiobooks/B0FTD9LT1T?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=0SMPKDD5CAP9TXX8AZ1W&plink=oRLzY7CHIaQMeZsu&pageLoadId=1fUmkzyR7hlSNL85&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Wallfl_psu_series_1)  
      │  
      ├─┬─ [Chaosborn Series](https://www.goodreads.com/series/417112-chaosborn)  
-     │ ├─── 📚 Book: TBA  
+     │ ├─── 📚 Book: 2  
      │ ├─── 📖 Format: TBA  
      │ └─── 📅 Release: TBA  
      │  
      ├─┬─ [Moonshot Hockey](https://www.goodreads.com/series/424795-moonshot-hockey)  
      │ ├─── 📚 Book 3  
-     │ ├─── 📖 Format: TBA  
+     │ ├─── 📖 Format: Book  
      │ └─── 📅 Release: TBA  
      │  
      ├─┬─ [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP)  
@@ -224,7 +224,7 @@ Currently Listening ➡️
      │  
      ├─┬─ [Cruel Crown Series](https://www.goodreads.com/series/277684-cruel-crown)  
      │ ├─── 📚 Book 2  
-     │ ├─── 📖 Format: TBA  
+     │ ├─── 📖 Format: Audio/Publication 
      │ └─── 📅 Release: TBA  
      │  
      ├─┬─ [Bratva Series [T J Maguire]](https://www.audible.com/series/Bratva-Series-Audiobooks/B0F18X78ZY?ref_pageloadid=Xyi1kLI76h0oGoOm&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=B2VKMVGFTAF1ZFQMP1Y2&plink=ViNWU0pkhjTJrPdJ&pageLoadId=E5uvJwt1ujs1m6TL&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Bratva_psu_series_1)  
@@ -238,9 +238,15 @@ Currently Listening ➡️
      │ └─── 📅 Release: March 31  
      │  
      └─┬─ [The Broken Accords Series](https://www.goodreads.com/series/421305-the-broken-accords)  
+     │ ├─── 📚 Books 2 & 3  
+     │ ├─── 📖 Format: Audio  
+     │ └─── 📅 Release: TBA  
+     │
+     └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
        ├─── 📚 Books 2 & 3  
-       ├─── 📖 Format: TBA  
+       ├─── 📖 Format: Audiobook 
        └─── 📅 Release: TBA  
+
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
