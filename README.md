@@ -93,6 +93,7 @@ WAITLIST
 | [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey) | Book 3, Expected publication April 2, 2026 |
 | [The Choosing Chronicles](https://www.goodreads.com/series/388014-the-choosing-chronicles) | Book 4, Expected 3 Jun 26 |
 | The Stonewater Kingdom | Book 2 Release, Sep 01 |
+| [The Broken Accords Series](https://www.goodreads.com/series/421305-the-broken-accords) | Books 2 & 3 TBA |
 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
