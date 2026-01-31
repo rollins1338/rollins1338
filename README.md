@@ -236,7 +236,12 @@ Currently Listening ➡️
      │ ├─── 📚 Book 3  
      │ ├─── 🎧 Format: Audio  
      │ └─── 📅 Release: March 31  
-     │  
+     │ 
+      └─┬─ [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP)  
+     │ ├─── 📚 Books 2
+     │ ├─── 📖 Format: Audio  
+     │ └─── 📅 Release: TBA  
+     │
      └─┬─ [The Broken Accords Series](https://www.goodreads.com/series/421305-the-broken-accords)  
      │ ├─── 📚 Books 2 & 3  
      │ ├─── 📖 Format: Audio  
