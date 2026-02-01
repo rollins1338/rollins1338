@@ -107,8 +107,7 @@ Currently Listening ➡️
 │    ├─┬─ [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1)  
 │    │ ├─── 📚 Book 4  
 │    │ ├─── 🎧 Format: Audio  
-│    │ ├─── 📅 Release: Apr 28  
-│    │ └─── ⚠️ Note: REQ BOOK 3  
+│    │ ├─── 📅 Release: Apr 28   
 │    │  
 │    └─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
 │      ├─── 📚 Book 3  
@@ -243,12 +242,9 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audio  
      │ └─── 📅 Release: TBA  
      │
-     │
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
        ├─── 📚 Books 2 & 3  
-       │
        ├─── 📖 Format: Audiobook
-       │
        └─── 📅 Release: TBA  
 
 
