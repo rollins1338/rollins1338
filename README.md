@@ -242,10 +242,16 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audio  
      │ └─── 📅 Release: TBA  
      │
-     └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
-       ├─── 📚 Books 2 & 3  
-       ├─── 📖 Format: Audiobook
-       └─── 📅 Release: TBA  
+     ├─┬─ [The Evermore Trilogy](https://www.audible.com/series/The-Evermore-Trilogy-Audiobooks/B0FGK45DWR)  
+     │ ├─── 📚 Book 2  
+     │ ├─── 📖 Format: Audiobook  
+     │ └─── 📅 Release: TBA  
+     │  
+     ├─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
+     │ ├─── 📚 Books 2 & 3  
+     │ ├─── 📖 Format: Audiobook
+     │ └─── 📅 Release: TBA  
+     │  
 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
