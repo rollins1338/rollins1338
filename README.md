@@ -19,13 +19,9 @@
 #### ABS Stuff
 
 > Scan Again
-  - [ ] Sports
+  - [x] Sports
   - [ ] Romantasy
   - [ ] Dark Romance
-
-> Match Books
-  - [x] Sports
-  - [x] Romantasy
 
 |  | add to drive repo  >> 
 
