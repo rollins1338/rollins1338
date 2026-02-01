@@ -18,7 +18,7 @@
 
 #### ABS Stuff
 
-> Scan Again
+> Scan 
   - [x] Sports
   - [ ] Romantasy
   - [ ] Dark Romance
