@@ -113,7 +113,12 @@ Currently Listening ➡️
 │    ├─┬─ [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1)  
 │    │ ├─── 📚 Book 4  
 │    │ ├─── 🎧 Format: Audio  
-│    │ ├─── 📅 Release: Apr 28   
+│    │ ├─── 📅 Release: Apr 28 
+│    │  
+│    ├─┬─ [The Dubinin Bratva](https://podiumentertainment.com/series/12048/romance/the-dubinin-bratva)  
+│    │ ├─── 📚 Book 2,3,4 [REQ IF NOT ADDED, NONE ADDED AS OF YET]
+│    │ ├─── 🎧 Format: Audio  
+│    │ ├─── 📅 Release: Apr 28 
 │    │  
 │    └─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
 │      ├─── 📚 Book 3  
