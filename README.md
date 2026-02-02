@@ -103,6 +103,11 @@ Currently Listening ➡️
 │      ├─── 🎧 Format: Audio  
 │      └─── 📅 Release: March 31  
 │  
+│    └─┬─ [Kings of Las Vegas](https://www.audible.com.au/series/Kings-of-Las-Vegas-Audiobooks/B0G27BGTMQ?ref_pageloadid=not_applicable&pf_rd_p=771c6463-05d7-4981-9b47-920dc34a70f1&pf_rd_r=16TC2SVC4E6H6ZAR8HGA&plink=d3OJqxHe9il85PRM&pageLoadId=qApIt2ZFAQUWXihl&creativeId=adcc4fec-4d90-49d1-997e-8be21d68ce7f&ref=a_search_c3_lSeries_1_1_1)     
+│      ├─── 📚 Book 2,3  
+│      ├─── 🎧 Format: Audio  
+│      └─── 📅 Release: March 31  
+│  
 ├─── 🌼 **APRIL 2026**  
 │    │  
 │    ├─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
