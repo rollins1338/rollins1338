@@ -27,7 +27,7 @@
 
 ### Series/Duets [Contemporary]
 
-- x
+- [Compel](https://www.audible.com/ac/Compel-Audiobook/B0GH263QDB?ref_pageloadid=qmjvCh7zzXgNrnOZ&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=6RQQ5PFFHDKBRTZ80Z4Y&plink=MpCH9pL3prLfKxyE&pageLoadId=dYDsN2Vhegy8qs37&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_De_c5_lProduct_1_2) Feb 3. death in bloom duet. req if not added
 
 ### Series/Duets [Historical]
 
