@@ -103,7 +103,17 @@ Currently Listening ➡️
 │      ├─── 🎧 Format: Audio  
 │      └─── 📅 Release: March 31  
 │  
-├─── 🌼 **APRIL 2026**  
+├─── 🌼 **APRIL 2026** 
+│    │
+│    ├─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
+│    │ ├─── 📚 Book 3  
+│    │ ├─── 📖 Format: Ebook  
+│    │ └─── 📅 Release: Apr 02  
+│    │  
+│    └─┬─ [Boston Bolts Hockey](https://www.audible.com/pd/Snow-Audiobook/B0GHZRQG9Y?qid=1770070562&sr=1-1&ref_pageloadid=RsLv87z4c9lFwcou&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=7DX9WA09YKEQF2ASBQJH&plink=KwBeAIfbBrD6Fg0P&pageLoadId=bIA8K9He6GjwXonK&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1)  
+│      ├─── 📚 Book 6  
+│      ├─── 📖 Format: Audiobook  
+│      └─── 📅 Release: Apr 10  
 │    │  
 │    ├─┬─ [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak)  
 │    │ ├─── 📚 Book 3  
@@ -119,11 +129,6 @@ Currently Listening ➡️
 │    │ ├─── 📚 Book 2,3,4 [REQ IF NOT ADDED, NONE ADDED AS OF YET]  
 │    │ ├─── 🎧 Format: Audio  
 │    │ └─── 📅 Release: Apr 28  
-│    │  
-│    └─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
-│      ├─── 📚 Book 3  
-│      ├─── 📖 Format: Ebook  
-│      └─── 📅 Release: Apr 02  
 │  
 ├─── ☀️ **MAY 2026**  
 │    │  
