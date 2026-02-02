@@ -91,7 +91,12 @@ Currently Listening ➡️
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 🎧 Format: Audio  
 │    │ └─── 📅 Release: March 10  
-│    │  
+│
+│ ├─┬─ [Into Darkness](https://www.audible.com/series/Into-Darkness-Audiobooks/B0D81P952Y?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-│f371cc1a8dfc&pf_rd_r=3PK58E2E17DCPREQ2X7Q&plink=cyJ8BW7U3gEDkB1D&pageLoadId=JJf1mlMIkeh4KMS0&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Game-O_psu_series_1)  
+│    │ ├─── 📚 Book 3  
+│    │ ├─── 🎧 Format: Audio  
+│    │  └─── 📅 Release: March 31  
+│    │ 
 │    └─┬─ The Eating Woods  
 │      ├─── 📚 Book 2  
 │      ├─── 🎧 Format: Audio  
@@ -227,10 +232,6 @@ Currently Listening ➡️
      │ ├─── 🎧 Format: Audio  
      │ └─── 📅 Release: TBA  
      │  
-     ├─┬─ [Into Darkness](https://www.audible.com/series/Into-Darkness-Audiobooks/B0D81P952Y?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=3PK58E2E17DCPREQ2X7Q&plink=cyJ8BW7U3gEDkB1D&pageLoadId=JJf1mlMIkeh4KMS0&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_Game-O_psu_series_1)  
-     │ ├─── 📚 Book 3  
-     │ ├─── 🎧 Format: Audio  
-     │ └─── 📅 Release: March 31  
      │ 
       └─┬─ [Cruel Fates Duet](https://www.audible.com/series/Cruel-Fates-Duet-Audiobooks/B0FLM36JTP)  
      │ ├─── 📚 Books 2
