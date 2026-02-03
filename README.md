@@ -27,7 +27,7 @@
 
 ### Series/Duets [Contemporary]
 
-- [Compel](https://www.audible.com/ac/Compel-Audiobook/B0GH263QDB?ref_pageloadid=qmjvCh7zzXgNrnOZ&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=6RQQ5PFFHDKBRTZ80Z4Y&plink=MpCH9pL3prLfKxyE&pageLoadId=dYDsN2Vhegy8qs37&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_De_c5_lProduct_1_2) Feb 3. death in bloom duet. req if not added
+- [Compel](https://www.audible.com/ac/Compel-Audiobook/B0GH263QDB?ref_pageloadid=qmjvCh7zzXgNrnOZ&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=6RQQ5PFFHDKBRTZ80Z4Y&plink=MpCH9pL3prLfKxyE&pageLoadId=dYDsN2Vhegy8qs37&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_De_c5_lProduct_1_2) Feb 3. death in bloom. req if not added
 
 ### Series/Duets [Historical]
 
@@ -259,10 +259,17 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audiobook / Book  
      │ └─── 📅 Release: TBA  
      │  
+     ├─┬─ [Death In Bloom](https://www.audible.com/series/Death-in-Bloom-Audiobooks/B0GH9Q5QHR?ref_pageloadid=dYDsN2Vhegy8qs37&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=Y1M8WXTWK7NCR5JDF5EF&plink=HSYL5up03L4mZ18W&pageLoadId=ZiyGYalYiEO4M1Cu&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_ac_Compel_psu_series_1)  
+     │ ├─── 📚 Book 3 
+     │ ├─── 📖 Format: Audiobook / Book  
+     │ └─── 📅 Release: TBA  
+     │  
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
        ├─── 📚 Books 2 & 3  
        ├─── 📖 Format: Audiobook  
        └─── 📅 Release: TBA  
+
+       
 
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
