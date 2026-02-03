@@ -34,8 +34,8 @@
 - x
 
 ### Romantasy
-- [Pirates Romance Duology](https://www.myanonamouse.net/t/1202700) REQ BOOK 2
-- [Wish](https://www.myanonamouse.net/t/1198042)
+
+- [Daggermouth Duet](https://www.audible.com/series/Daggermouth-Audiobooks/B0GJZL8HRX) Book 1 JUNE 25, 2026
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
