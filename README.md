@@ -269,6 +269,11 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audiobook / Book   
      │ └─── 📅 Release: TBA   
      │  
+     ├─┬─ [The Sunchosen Chronicles](https://www.goodreads.com/series/423109-the-sunchosen-chronicles)    
+     │ ├─── 📚 Book 2   
+     │ ├─── 📖 Format: EBOOK / AUDIO   
+     │ └─── 📅 Release: TBA    
+     │  
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
        ├─── 📚 Books 2 & 3  
        ├─── 📖 Format: Audiobook  
