@@ -61,11 +61,6 @@ Currently Listening ➡️
 │  
 ├─── 🔥 **FEBRUARY 2026**  
 │    │  
-│    ├─┬─ [The Shadows Series](https://www.audible.com/series/The-Shadows-Series-Audiobooks/B0FCM8JDD5?ref_pageloadid=MPsJbkBGDAVupqhs&pf_rd_p=694d5b3e-7636-4b98-94db-f39c6800419b&pf_rd_r=6HRX47Z9N56H9YWW4C8Z&plink=YrSGLMDKuDVAWyx4&pageLoadId=SZvtqxRyeYlZEqGE&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_In-the_psu_series_1)  
-│    │ ├─── 📚 Book 3  
-│    │ ├─── 🎧 Format: Audio  
-│    │ └─── 📅 Release: Feb 03  
-│    │  
 │    ├─┬─ [The Ashen Series](https://www.romance.io/series/647b311ac3d3f0f602b7e260/the-ashen)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 🎧 Format: Audio  
@@ -166,6 +161,11 @@ Currently Listening ➡️
 │    │ ├─── 📖 Format: Ebook  
 │    │ └─── 📅 Release: Jul 14  
 │    │  
+│    ├─┬─ [Colburn Brothers](https://www.goodreads.com/book/show/243125028-falling-into-you)  
+│    │ ├─── 📚 Book 3  
+│    │ ├─── 📖 Format: Ebook  
+│    │ └─── 📅 Release: Jul 14  
+│    │  
 │    ├─┬─ [Crown of Hearts & Chaos](https://www.romance.io/series/68a81c33747390d0e3cf29fb/crown-of-hearts-and-chaos)  
 │    │ ├─── 📚 Book 2  
 │    │ ├─── 📖 Format: Ebook  
@@ -253,10 +253,15 @@ Currently Listening ➡️
      │ ├─── 📚 Books 2 & 3  
      │ ├─── 📖 Format: Audio  
      │ └─── 📅 Release: TBA  
-     │  
+     │ 
      ├─┬─ [The Evermore Trilogy](https://www.audible.com/series/The-Evermore-Trilogy-Audiobooks/B0FGK45DWR)  
      │ ├─── 📚 Book 2  
      │ ├─── 📖 Format: Audiobook  
+     │ └─── 📅 Release: TBA  
+     │  
+     ├─┬─ [Black Rabbit Series](https://www.goodreads.com/series/422850-black-rabbit)  
+     │ ├─── 📚 Book 2  
+     │ ├─── 📖 Format: Audiobook / Book  
      │ └─── 📅 Release: TBA  
      │  
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)  
