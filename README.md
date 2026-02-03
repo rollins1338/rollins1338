@@ -60,6 +60,11 @@ Currently Listening ➡️
 
 │  
 ├─── 🔥 **FEBRUARY 2026**  
+│    │   
+│    ├─┬─ [Hide and Seek](https://www.audible.com/pd/Ready-or-Not-A-Dark-Romance-Audiobook/B0GBXXHQ6C?ref_pageloadid=2KVutUHZegDauOkY&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=NJP6RR85KTFX5MXPG115&plink=kw9eSw2jQkvbV9xL&pageLoadId=WJxYGdGQNTiI0344&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_Hi_c5_lProduct_1_2)  
+│    │ ├─── 📚 Book 2  
+│    │ ├─── 🎧 Format: Audio   
+│    │ └─── 📅 Release: Feb 10  
 │    │  
 │    ├─┬─ [Compelling Fates Saga](https://www.audible.com/series/Compelling-Fates-Saga-Audiobooks/B0F9FHDZBH?ref_pageloadid=UJ5pozjvnQDUTZ7D&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=ST83D2XME8GB7C597HAF&plink=n6bKoRcehFgGgwjQ&pageLoadId=FZHK184x8SxcCzuf&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Fl_c10_adblp13nssgb_3)  
 │    │ ├─── 📚 Book 3  
