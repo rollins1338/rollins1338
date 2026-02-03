@@ -248,7 +248,7 @@ Currently Listening ➡️
      │ ├─── 📚 Books 2 & 3  
      │ ├─── 📖 Format: Audio  
      │ └─── 📅 Release: TBA  
-     │ 
+     │  
      ├─┬─ [The Evermore Trilogy](https://www.audible.com/series/The-Evermore-Trilogy-Audiobooks/B0FGK45DWR)  
      │ ├─── 📚 Book 2  
      │ ├─── 📖 Format: Audiobook  
