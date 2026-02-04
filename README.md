@@ -110,11 +110,16 @@ Currently Listening ➡️
 │    │ ├─── 📖 Format: Ebook  
 │    │ └─── 📅 Release: Apr 02  
 │    │  
+│    └─┬─ [The Undone](https://www.audible.com/series/Undone-Audiobooks/B0DD9FMMBH)  
+│      ├─── 📚 Book 3  
+│      ├─── 📖 Format: Audiobook  
+│      └─── 📅 Release: Apr 07  
+│      
 │    └─┬─ [Boston Bolts Hockey](https://www.audible.com/pd/Snow-Audiobook/B0GHZRQG9Y?qid=1770070562&sr=1-1&ref_pageloadid=RsLv87z4c9lFwcou&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=7DX9WA09YKEQF2ASBQJH&plink=KwBeAIfbBrD6Fg0P&pageLoadId=bIA8K9He6GjwXonK&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1)  
 │      ├─── 📚 Book 6  
 │      ├─── 📖 Format: Audiobook  
 │      └─── 📅 Release: Apr 10  
-│    │  
+│      
 │    ├─┬─ [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 📖 Format: Ebook  
@@ -277,8 +282,13 @@ Currently Listening ➡️
      ├─┬─ [Sins of the Zodiac](https://www.audible.co.uk/series/Sins-of-the-Zodiac-Audiobooks/B0D9LJLBG8)    
      │ ├─── 📚 Book 3    
      │ ├─── 📖 Format: Audio    
-     │ └─── 📅 Release: TBA    
+     │ └─── 📅 Release: TBA
      │  
+     ├─┬─ [The Crucible](https://www.audible.com/series/The-Crucible-Audiobooks/B0D72TQZK9)    
+     │ ├─── 📚 Book 3    
+     │ ├─── 📖 Format: Audio    
+     │ └─── 📅 Release: TBA
+     │   
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)    
        ├─── 📚 Books 2 & 3    
        ├─── 📖 Format: Audiobook    
