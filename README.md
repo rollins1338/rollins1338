@@ -273,7 +273,7 @@ Currently Listening ➡️
      │ ├─── 📚 Book 2   
      │ ├─── 📖 Format: EBOOK / AUDIO   
      │ └─── 📅 Release: TBA  
-     │
+     │  
      ├─┬─ [Sins of the Zodiac](https://www.audible.co.uk/series/Sins-of-the-Zodiac-Audiobooks/B0D9LJLBG8)    
      │ ├─── 📚 Book 3    
      │ ├─── 📖 Format: Audio    
