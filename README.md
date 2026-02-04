@@ -287,7 +287,12 @@ Currently Listening ➡️
      ├─┬─ [The Crucible](https://www.audible.com/series/The-Crucible-Audiobooks/B0D72TQZK9)    
      │ ├─── 📚 Book 3    
      │ ├─── 📖 Format: Audio    
-     │ └─── 📅 Release: TBA
+     │ └─── 📅 Release: TBA  
+     │  
+     ├─┬─ [Wicked Games](https://www.audible.com/series/Wicked-Games-Audiobooks/B0F1F8QQF1)    
+     │ ├─── 📚 Book 3    
+     │ ├─── 📖 Format: Audio/EBOOK      
+     │ └─── 📅 Release: TBA  
      │   
      └─┬─ [Saddles & Spurs](https://www.audible.com/series/Saddles-Spurs-Audiobooks/B0G48PDZ71)    
        ├─── 📚 Books 2 & 3    
