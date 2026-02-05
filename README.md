@@ -306,7 +306,8 @@ Currently Listening ➡️
        └─── 📅 Release: TBA    
 
 
-       Songs for the Sinless
+       Songs for the Sinless Series
+       Saints of Purgatory Series
 
        
 
