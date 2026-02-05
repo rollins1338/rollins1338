@@ -290,6 +290,11 @@ Currently Listening ➡️
      │ ├─── 📖 Format: Audio    
      │ └─── 📅 Release: TBA  
      │  
+     │ ├─┬─ Songs for the Sinless  
+     │ ├─── 📚 Book 2    
+     │ ├─── 📖 Format: Audio    
+     │ └─── 📅 Release: TBA  
+     │  
      ├─┬─ [Wicked Games](https://www.audible.com/series/Wicked-Games-Audiobooks/B0F1F8QQF1)    
      │ ├─── 📚 Book 3    
      │ ├─── 📖 Format: Audio/EBOOK      
@@ -299,6 +304,9 @@ Currently Listening ➡️
        ├─── 📚 Books 2 & 3    
        ├─── 📖 Format: Audiobook    
        └─── 📅 Release: TBA    
+
+
+       Songs for the Sinless
 
        
 
