@@ -27,7 +27,7 @@
 
 ### Series/Duets [Contemporary]
 
-- Check [Bookmarks](https://05od2.mrd.ninja/DmXw). Eval and download the series.
+- Check [Bookmarks](https://05od2.mrd.ninja/DmXw). Eval and download both series.
 
 ### Series/Duets [Historical]
 
