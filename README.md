@@ -84,6 +84,11 @@ Currently Listening ➡️
 │  
 ├─── 🌸 **MARCH 2026**  
 │    │  
+│    ├─┬─ [Raven Creek](https://www.audible.com/series/Raven-Creek-Audiobooks/B0GCDZ5PN6?ref_pageloadid=not_applicable&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=QC8PRYDSCHTDH8R2FDP6&plink=RqFAmJda8pPsQpsJ&pageLoadId=CYNgaAEpRMaAZvCH&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_ac_Agains_psu_series_1)  
+│    │ ├─── 📚 Book 3  
+│    │ ├─── 🎧 Format: Audio  
+│    │ └─── 📅 Release: March 03  
+│    │  
 │    ├─┬─ [Bloodwing Academy](https://www.audible.com/series/Bloodwing-Academy-Audiobooks/B0DYSWXFHN?ref_pageloadid=9ycFOhorK3uUVvNc&pf_rd_p=8d7af996-4f31-4660-9d90-979b9fc6ac6a&pf_rd_r=WXF822MZJJ9SVBR96MCD&plink=SFqpzAT5gZKpmyfb&pageLoadId=N6TO6EFoM29s5uQe&creativeId=37511791-4e60-4e52-bece-4180e2a551c2&ref=a_series_Sp_c10_adblp13nssgb_6)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 🎧 Format: Audio  
