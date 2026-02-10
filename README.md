@@ -37,6 +37,7 @@
 
 - [Daggermouth Duet](https://www.audible.com/series/Daggermouth-Audiobooks/B0GJZL8HRX) Book 1 JUNE 25, 2026
 - [A Fine Scottish Time](https://podiumentertainment.com/titles/131090/romance/a-fine-scottish-time)
+- A Bond So Fierce and Fragile
   
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
