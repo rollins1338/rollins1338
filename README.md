@@ -107,16 +107,21 @@ Currently Listening ➡️
 │      ├─── 📖 Format: Audiobook  
 │      └─── 📅 Release: Apr 07  
 │      
-│    └─┬─ [Boston Bolts Hockey](https://www.audible.com/pd/Snow-Audiobook/B0GHZRQG9Y?qid=1770070562&sr=1-1&ref_pageloadid=RsLv87z4c9lFwcou&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=7DX9WA09YKEQF2ASBQJH&plink=KwBeAIfbBrD6Fg0P&pageLoadId=bIA8K9He6GjwXonK&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1)  
+│    ├─┬─ [Boston Bolts Hockey](https://www.audible.com/pd/Snow-Audiobook/B0GHZRQG9Y?qid=1770070562&sr=1-1&ref_pageloadid=RsLv87z4c9lFwcou&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=7DX9WA09YKEQF2ASBQJH&plink=KwBeAIfbBrD6Fg0P&pageLoadId=bIA8K9He6GjwXonK&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1)  
 │      ├─── 📚 Book 6  
 │      ├─── 📖 Format: Audiobook  
 │      └─── 📅 Release: Apr 10  
-│      
+│
 │    ├─┬─ [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 📖 Format: Ebook  
 │    │ └─── 📅 Release: Apr 10  
-│    │  
+│    │   
+│    ├─┬─ [Calloway Sisters](https://www.audible.com/series/Calloway-Sisters-Audiobooks/B013KWDKO2)   
+│    │ ├─── 📚 Book 2  
+│    │ ├─── 📖 Format: Audio   
+│    │ └─── 📅 Release: Apr 21    
+│    │   
 │    ├─┬─ [Fire and Desire](https://www.audible.com/series/Fire-and-Desire-Audiobooks/B0D3PYXH9L?ref_pageloadid=d8sRXUlfFHQ6pW0Z&pf_rd_p=ab633c2e-8d2c-45fb-a450-f371cc1a8dfc&pf_rd_r=WNT5H8VYX1Z84S497XW9&plink=rckvdPFIe96LFDrc&pageLoadId=l64IGs2Bm139EfnO&creativeId=0e5797a6-2dec-4ca4-a423-727d8382d5c3&ref=a_pd_The-Fl_psu_series_1)  
 │    │ ├─── 📚 Book 4  
 │    │ ├─── 🎧 Format: Audio  
