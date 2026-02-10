@@ -86,32 +86,33 @@ Currently Listening ➡️
 │    │ └─── 📅 Release: March 31  
 │    │  
 │    └─┬─ The Eating Woods  
-│      ├─── 📚 Book 2  
-│      ├─── 🎧 Format: Audio  
-│      └─── 📅 Release: March 31  
-│  
+│    │ ├─── 📚 Book 2  
+│    │ ├─── 🎧 Format: Audio  
+│    │ └─── 📅 Release: March 31  
+│    │
 │    └─┬─ [Kings of Las Vegas](https://www.audible.com.au/series/Kings-of-Las-Vegas-Audiobooks/B0G27BGTMQ?ref_pageloadid=not_applicable&pf_rd_p=771c6463-05d7-4981-9b47-920dc34a70f1&pf_rd_r=16TC2SVC4E6H6ZAR8HGA&plink=d3OJqxHe9il85PRM&pageLoadId=qApIt2ZFAQUWXihl&creativeId=adcc4fec-4d90-49d1-997e-8be21d68ce7f&ref=a_search_c3_lSeries_1_1_1)     
-│      ├─── 📚 Book 2,3  
-│      ├─── 🎧 Format: Audio  
-│      └─── 📅 Release: March 31  
-│  
+│   │  ├─── 📚 Book 2,3   
+│   │  ├─── 🎧 Format: Audio   
+│   │  └─── 📅 Release: March 31   
+│   
 ├─── 🌼 **APRIL 2026**  
-│    │  
+│    │   
 │    ├─┬─ [Mates Series](https://www.goodreads.com/series/404518-mates) (Hockey)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 📖 Format: Ebook  
 │    │ └─── 📅 Release: Apr 02  
-│    │  
+│    │   
 │    └─┬─ [The Undone](https://www.audible.com/series/Undone-Audiobooks/B0DD9FMMBH)  
-│      ├─── 📚 Book 3  
-│      ├─── 📖 Format: Audiobook  
-│      └─── 📅 Release: Apr 07  
-│      
+│    │  ├─── 📚 Book 3  
+│    │  ├─── 📚 Book 3  
+│    │  ├─── 📖 Format: Audiobook  
+│    │  └─── 📅 Release: Apr 07  
+│    │   
 │    ├─┬─ [Boston Bolts Hockey](https://www.audible.com/pd/Snow-Audiobook/B0GHZRQG9Y?qid=1770070562&sr=1-1&ref_pageloadid=RsLv87z4c9lFwcou&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=7DX9WA09YKEQF2ASBQJH&plink=KwBeAIfbBrD6Fg0P&pageLoadId=bIA8K9He6GjwXonK&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1)  
-│      ├─── 📚 Book 6  
-│      ├─── 📖 Format: Audiobook  
-│      └─── 📅 Release: Apr 10  
-│
+│    │ ├─── 📚 Book 6  
+│    │ ├─── 📖 Format: Audiobook  
+│    │ └─── 📅 Release: Apr 10  
+│    │  
 │    ├─┬─ [Blossom Peak Series](https://www.goodreads.com/series/427142-blossom-peak)  
 │    │ ├─── 📚 Book 3  
 │    │ ├─── 📖 Format: Ebook  
