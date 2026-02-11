@@ -307,6 +307,7 @@ Currently Listening ➡️
        Saints of Purgatory Series
        Darkest Destiny Series 
        Recovering Good Girls
+       Of Crows and Thorns [Book 2 not TBA]
 
        
 
