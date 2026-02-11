@@ -56,7 +56,7 @@ Currently Listening ➡️
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
-## [Book Release Tracker](https://docs.google.com/spreadsheets/d/1kHh94LpAeQ9GusEXioX8jxWXnCJ0fUAS/edit?gid=1253666155#gid=1253666155)
+## [Book Release Tracker](https://docs.google.com/spreadsheets/d/1zGrK8AlqNkOPiadhMJqa8z4D4W_6Q6yG/edit?pli=1&gid=1893390325#gid=1893390325)
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
