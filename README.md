@@ -27,12 +27,10 @@
 
 ### Series/Duets [Contemporary]
 
-- Check [Bookmarks](https://05od2.mrd.ninja/DmXw). Eval and download both series.
-
-### Series/Duets [Historical]
-
-- x
-
+- The Saints of Purgatory
+- Recovering Good Girls
+- Darkest Destiny
+ 
 ### Romantasy
 
 - [Daggermouth Duet](https://www.audible.com/series/Daggermouth-Audiobooks/B0GJZL8HRX) Book 1 JUNE 25, 2026
@@ -59,17 +57,6 @@ Currently Listening ➡️
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 ## [Book Release Tracker](https://docs.google.com/spreadsheets/d/1kHh94LpAeQ9GusEXioX8jxWXnCJ0fUAS/edit?gid=1253666155#gid=1253666155)
-
-
-
-       Songs for the Sinless Series
-       Saints of Purgatory Series
-       Darkest Destiny Series 
-       Recovering Good Girls
-       Of Crows and Thorns [Book 2 not TBA]
-
-       
-
 
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
