@@ -29,7 +29,7 @@
 
 - The Saints of Purgatory
 - Recovering Good Girls
-- Darkest Destiny
+- Haunted Hearts Boool 3 - Aug 10
  
 ### Romantasy
 
