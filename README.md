@@ -29,7 +29,6 @@
 
 - The Saints of Purgatory
 - Recovering Good Girls
-- Haunted Hearts Book 3 - Aug 10
  
 ### Romantasy
 
