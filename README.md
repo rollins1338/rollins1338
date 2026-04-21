@@ -16,6 +16,8 @@
  
 ## To-Do
 
+wait for Imperial Lament to finish translation 
+
 #### ABS Stuff
 
 > Scan 
